@@ -1,6 +1,5 @@
 TVP1.pl
 MEZZO
-MEZZO LIVE
-Mezzo
-RSI La 1
-RSI La 2
+Sport 1
+Sport 2
+Stingray  Classica
