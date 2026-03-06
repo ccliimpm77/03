@@ -1,4 +1,3 @@
-
 name: Aggiorna EPG
 on:
   schedule:
@@ -6,13 +5,13 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Questa riga è fondamentale per risolvere l'errore 128
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -23,13 +22,19 @@ jobs:
       - name: Install Requests
         run: pip install requests
 
-      - name: Run Script
+      - name: Esegui Script
         run: python filter.py
 
-      - name: Commit and Push changes
+      - name: Verifica ed Invia
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add epg.xml
-          git commit -m "Aggiornamento automatico EPG" || exit 0
-          git push
+          # Verifica se il file esiste prima di aggiungerlo
+          if [ -f epg.xml ]; then
+            git add epg.xml
+            git commit -m "Aggiornamento automatico EPG" || exit 0
+            git push
+          else
+            echo "Errore: epg.xml non è stato creato!"
+            exit 1
+          fi
