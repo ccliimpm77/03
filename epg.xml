@@ -19,136 +19,6 @@
     <icon src="http://epg.ovh/logo/Sport+2.png" />
     <url>http://www.epg.ovh</url>
   </channel>
-  <programme start="20260312003000 +0100" stop="20260312014100 +0100" channel="MEZZO">
-    <title lang="pl">Joachim Kühn in concerto - Estate pianistica</title>
-    <credits>
-      <director>Dieter Hens</director>
-    </credits>
-    <date>1999</date>
-    <category lang="pl">concerto jazz</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260312014100 +0100" stop="20260312022400 +0100" channel="MEZZO">
-    <title lang="pl">Jimmy Witherspoon Quartet - Multiplatino</title>
-    <credits>
-      <director>Sandro Pedrazzetti</director>
-    </credits>
-    <date>1985</date>
-    <category lang="pl">concerto jazz</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260312022400 +0100" stop="20260312065900 +0100" channel="MEZZO">
-    <title lang="pl">Wagner: Il crepuscolo degli dei - Teatro dell'Opera di Zurigo</title>
-    <desc lang="pl">Götterdämmerung Terzo giorno in tre atti di 'Der Ring des Nibelungen' di Richard Wagner (1813 - 1883) Libretto di Richard Wagner Bayreuth, Festspielhaus, 17 agosto 1876 Philharmonia Zurich Gianandrea Noseda (direttore d'orchestra) Andreas Homoki (regia) Christian Schmidt (scenografia e costumi), Franck Evin (design luci) Klaus Florian Vogt (Siegfried) Daniel Fehlhard (Gunther) Christopher Purves (Alberich) David Leigh (Hagen) Camilla Nylund (Brünnhilde) Lauren Fagan (Gutrune) Sarah Ferede (Waltraute) Freya Apffelstaedt (Prima Norna) Lena Sutor-Wernich (Seconda Nonna) Giselle Allen (Terza Nonna) Uliana Alexyuk (Woglinde) Niamh O'Sullivan (Wellgunde) Siena Licht Miller (Floßhilde) Zurigo, Teatro dell'Opera, 26 maggio 2024.</desc>
-    <credits>
-      <director>Michael Beyer</director>
-    </credits>
-    <date>2024</date>
-    <category lang="pl">opera</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984463.jpg" />
-  </programme>
-  <programme start="20260312065900 +0100" stop="20260312075200 +0100" channel="MEZZO">
-    <title lang="pl">Gli ebrei di Wagner</title>
-    <desc lang="pl">Gli ebrei di Wagner Richard Wagner era notoriamente antisemita, e i suoi scritti sugli ebrei furono successivamente accolti da Hitler e dai nazisti. Ma per anni, molti dei più stretti collaboratori di Wagner furono ebrei, giovani musicisti che gli si dedicarono personalmente e fornirono un aiuto cruciale al suo lavoro e alla sua carriera. Perché erano attratti da lui? E come potrebbe Wagner accettare il loro abbraccio? Queste domande sono al centro di "Gli ebrei di Wagner", il primo film incentrato sulle complesse relazioni personali di Wagner con gli ebrei. Girato in Germania, Svizzera e Italia, "Gli ebrei di Wagner" rivela questa straordinaria storia attraverso fonti d'archivio, rievocazioni, interviste ed esecuzioni di opere musicali originali dei colleghi ebrei di Wagner. Con la partecipazione di Zubin Mehta e Leon Botstein, tra gli altri, il film esplora anche la controversia in corso sull'esecuzione della musica di Wagner in Israele. Le stesse domande poste ai tempi di Wagner risuonano ancora oggi: è possibile separare l'arte dal suo creatore? Può la musica sublime trascendere il pregiudizio, il fanatismo e il peso della storia? Diretto da Hilan Warshaw 2013.</desc>
-    <credits>
-      <director>Hilan Warshaw</director>
-    </credits>
-    <date>2013</date>
-    <category lang="pl">film documentario</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984456.jpg" />
-  </programme>
-  <programme start="20260312075200 +0100" stop="20260312092400 +0100" channel="MEZZO">
-    <title lang="pl">Orchestra Filarmonica di Monaco, Daniel Harding, Leonidas Kavakos: Čajkovskij, Dvorak</title>
-    <date>2022</date>
-    <category lang="pl">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260312092400 +0100" stop="20260312100000 +0100" channel="MEZZO">
-    <title lang="pl">InterMezzo</title>
-    <category lang="pl">programma musicale</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419708.jpg" />
-  </programme>
-  <programme start="20260312100000 +0100" stop="20260312113300 +0100" channel="MEZZO">
-    <title lang="pl">Martha Argerich, Maria Joao Pires, Orchestre de la Suisse Romande, Daniel Harding: Mozart, Mahler</title>
-    <credits>
-      <director>Andy Sommer</director>
-    </credits>
-    <date>2021</date>
-    <category lang="pl">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260312113300 +0100" stop="20260312130300 +0100" channel="MEZZO">
-    <title lang="pl">Benjamin Bernheim, Berliner Philharmoniker, Kirill Petrenko: Concerto di Capodanno 2025</title>
-    <desc lang="pl">Berliner Philharmoniker, Kirill Petrenko (direttore) Benjamin Bernheim (tenore) Pyotr Tchaikovsky 1840 - 1893 Eugen Onegin, op. 24 Polonaise - Introduzione, scena e aria di Lensky dall'atto 2 Gabriel Fauré 1845 - 1924 Pelléas et Mélisande, suite orchestrale, op. 80 Il siciliano Charles Gounod 1818 - 1893 Romeo e Giulietta Amore! (Atto 2) Piotr Tchaikovsky Romeo e Giulietta, Ouverture fantasy da Shakespeare Jules Massenet 1842 - 1912 Werther Preludio all'Atto 1 - Perché svegliarmi (Atto 3) Georges Bizet 1838 - 1875 L'Arlésienne, Suite n. 2 Farandole Carmen Il fiore che mi avevi lanciato (Atto 2) Emmanuel Chabrier 1841 - 1894 Espana, Rhapsody per orchestra George Gershwin 1898 - 1937 Ouverture cubana Berlino, Philharmonie, 31 dicembre 2025.</desc>
-    <date>2025</date>
-    <category lang="pl">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260312130300 +0100" stop="20260312133000 +0100" channel="MEZZO">
-    <title lang="pl">InterMezzo</title>
-    <category lang="pl">programma musicale</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419708.jpg" />
-  </programme>
-  <programme start="20260312133000 +0100" stop="20260312145300 +0100" channel="MEZZO">
-    <title lang="pl">La Nona Sinfonia di Maurice Béjart - Béjart Ballet Losanna, Tokyo Ballet</title>
-    <desc lang="pl">La Nona Sinfonia Maurice Bejart, coreografia Dopo l'Inno alla Gioia di Schiller Ludwig van Beethoven, musica Maurice Bejart, messa in scena Friedrich Nietzsche, prologo Gil Roman, direttore artistico Israel Philharmonic Orchestra Zubin Mehta, direttore Ritsuyukai Choir Kufiami Kuriyama, maestro del coro Gil Roman, voce narrante Kristin Lewis, soprano Mihoko Fujimura, mezzosoprano Kei Fukui, tenore Alexander Vinogradov, basso JB Meier e Thierry Hochstätter, percussioni Joëlle Roustan e Roger Bernard, costumi e scenografie originali Henri Davila, adattamento costumi Dominique Roman, realizzazione luci Piotr Nardelli, maestro di ballo revival Con The Béjart Ballet Lausanne The Tokyo Ballet and Soloists Dan Tsukamoto, Mizuka Ueno, Iori Nittono, Aya Takagi, Kathleen Thielheilm, Masayoshi Onuki, Elizabeth Ros, Juien Favreau, Lisa Cano, Fabrice Gallarrague, Pauline Voisard, Felipe Rocha, Oscar Chacon, Keisuke Nasuno, Marsha Rodriguez, Cosima Munoz, Mari Ohashi, Kwinten Williams, Aldriana Vargas Lopez, Hector Navarro, Alanna Archibald Registrato il 9 novembre 2014 presso la NHK Hall Tokyo TV Direttore Mari Hnamasu.</desc>
-    <credits>
-      <director>Mari Hnamasu</director>
-    </credits>
-    <date>2014</date>
-    <category lang="pl">balletto</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419696.jpg" />
-  </programme>
-  <programme start="20260312145300 +0100" stop="20260312160900 +0100" channel="MEZZO">
-    <title lang="pl">Festival di musica da camera di Gerusalemme: Rachmaninov, Weinberg</title>
-    <credits>
-      <director>John Blanch</director>
-    </credits>
-    <date>2023</date>
-    <category lang="pl">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260312160900 +0100" stop="20260312174500 +0100" channel="MEZZO">
-    <title lang="pl">David Oistrakh, artista del popolo</title>
-    <desc lang="pl">David Oistrakh, artista del popolo La drammatica storia di un violinista ispirato, di un uomo leale il cui silenzio autoimposto tradiva in modo eloquente una sofferenza privata inespressa. Questo ampio profilo contiene interviste con gli amici di lunga data e colleghi musicisti di David Oistrakh: Yehudi Menuhin che mostra cosa serve per diventare un grande violinista; Mstislav Rostropovitch parla del rapporto di Oistrakh con il regime sovietico; Gidon Kremer ricorda Oistrakh come insegnante; Gennady Rozhdestvensky che ha diretto per lui tutti i maggiori concerti; e il figlio di Oistrakh, Igor, ricordando il padre di famiglia. Diretto da Bruno Monsainge nel 1994.</desc>
-    <credits>
-      <director>Bruno Monsaingeon</director>
-    </credits>
-    <date>1994</date>
-    <category lang="pl">film documentario</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984456.jpg" />
-  </programme>
-  <programme start="20260312174500 +0100" stop="20260312203000 +0100" channel="MEZZO">
-    <title lang="pl">Beethoven: Fidelio - Opera Nazionale Olandese</title>
-    <desc lang="pl">Fidelio Opera in due atti di Ludwig van Beethoven (1770 - 1827) Libretto di Joseph Sonnleitner e Stephan von Breuning Prima rappresentazione a Vienna, Theater und der Wien, 20 novembre 1805 Orchestra reale del Concertgebouw, Andrés Orozco Estrada (direttore) Coro dell'Opera nazionale olandese, Edward Ananian-Cooper (maestro del coro) Andriy Zholdak (regia, scenografia e luci design) Andriy Zholdak, Simon Machabeli (costumi) Andriy Zholdak, Daniel Zholdak (scenografia) Etienne Guiol (video design) Jacquelyn Wagner (Leonore) Eric Cutler (Florestan) James Creswell (Rocco) Nicholas Brownlee (Don Pizarro) Anna El-Khashem (Marzelline) Linard Vrielink (Jaquino) Mark Kurmanbayev (Don Fernando) Amsterdam, Dutch National Opera, 29 giugno 2024.</desc>
-    <credits>
-      <director>Ferenc Soeteman</director>
-    </credits>
-    <date>2024</date>
-    <category lang="pl">opera</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984463.jpg" />
-  </programme>
-  <programme start="20260312203000 +0100" stop="20260312220200 +0100" channel="MEZZO">
-    <title lang="pl">John McLaughlin, La quarta dimensione: dalla A al jazz</title>
-    <date>2022</date>
-    <category lang="pl">concerto jazz</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260312220200 +0100" stop="20260312231600 +0100" channel="MEZZO">
-    <title lang="pl">Marc Ribot - The Jazz-Bins - Banlieues Bleues</title>
-    <credits>
-      <director>Stéphane Jourdain</director>
-    </credits>
-    <date>2023</date>
-    <category lang="pl">concerto jazz</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260312231600 +0100" stop="20260313005500 +0100" channel="MEZZO">
-    <title lang="pl">Young Euro Classic 2025: Orchestra giovanile dell'Unione europea</title>
-    <date>2025</date>
-    <category lang="pl">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
   <programme start="20260313005500 +0100" stop="20260313031900 +0100" channel="MEZZO">
     <title lang="pl">Grigory Sokolov alla Filarmonica di Berlino: Schubert, Beethoven, Rameau</title>
     <credits>
@@ -873,79 +743,139 @@
     <category lang="pl">opera</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984463.jpg" />
   </programme>
-  <programme start="20260312020000 +0100" stop="20260312060000 +0100" channel="Sport 1">
-    <title lang="cs">Freccette</title>
-    <desc lang="cs">Polonia Darts Open, PDC European Tour 2025, Giorno 3, Parte 2 Polonia Darts Open, PDC European Tour 2025, Giorno 3, Parte 2.</desc>
-    <category lang="cs">Sport</category>
+  <programme start="20260318022400 +0100" stop="20260318040600 +0100" channel="MEZZO">
+    <title lang="pl">Orchestra di Parigi, Esa-Pekka Salonen, Aliisa Neige Barriere: Saariaho, Sibelius, Lindberg</title>
+    <date>2024</date>
+    <category lang="pl">concerto classico</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
-  <programme start="20260312060000 +0100" stop="20260312073000 +0100" channel="Sport 1">
-    <title lang="cs">Acquisti televisivi</title>
-    <category lang="cs">Sport</category>
+  <programme start="20260318040600 +0100" stop="20260318052600 +0100" channel="MEZZO">
+    <title lang="pl">Claudio Abbado, Filarmonica di Berlino: Brahms</title>
+    <credits>
+      <director>Bob Coles</director>
+    </credits>
+    <date>1997</date>
+    <category lang="pl">concerto classico</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
-  <programme start="20260312073000 +0100" stop="20260312100000 +0100" channel="Sport 1">
-    <title lang="cs">Hockey su ghiaccio</title>
-    <sub-title lang="cs">Davos - Biel</sub-title>
-    <desc lang="cs">National League, stagione regolareNational League, stagione regolare</desc>
-    <category lang="cs">Sport</category>
+  <programme start="20260318052600 +0100" stop="20260318082400 +0100" channel="MEZZO">
+    <title lang="pl">Le nozze di Figaro by Mozart at the Salzburg Festival</title>
+    <desc lang="pl">Le nozze di Figaro 'Opera buffa' in four acts by Wolfgang Amadeus Mozart (1756 - 1791) Libretto by Lorenzo Da Ponte based on 'La folle journée, ou le Mariage de Figaro' by Pierre-Augustin Caron de Beaumarchais First performance in Vienna, Burgtheater, 1 May 1786 Vienna Philharmonic Orchestra, Raphaël Pichon (Conductor) Martin Kusej (Stage director) Raimund Orfeo Voigt (Set designer), Alan Hranitelj (Costume designer), Friedrich Rom (Lighting designer) Krzysztof Bączyk (Figaro) Sabine Devieilhe (Susanna) Andre Schuen (Il Conte di Almaviva) Adriana González (La Contessa di Almaviva) Léa Desandre (Cherubino) Peter Kálmán (Bartolo) Kristina Hammarström (Marcellina) Manuel Günther (Basilio) Serafina Starke (Barbarina) Rafał Pawnuk (Antonio) Andrew Morstein (Don Curzio) Salzburg Festival, 27 July 2023.</desc>
+    <date>2023</date>
+    <category lang="pl">opera</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984463.jpg" />
   </programme>
-  <programme start="20260312100000 +0100" stop="20260312110000 +0100" channel="Sport 1">
-    <title lang="cs">Acquisti televisivi</title>
-    <category lang="cs">Sport</category>
+  <programme start="20260318082400 +0100" stop="20260318084700 +0100" channel="MEZZO">
+    <title lang="pl">Wenzel Fuchs, Elena Bashkirova - Brahms: Sonata per clarinetto e pianoforte n.2</title>
+    <credits>
+      <director>Jean-Claude Piroué</director>
+    </credits>
+    <date>1996</date>
+    <category lang="pl">concerto classico</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
-  <programme start="20260312110000 +0100" stop="20260312130000 +0100" channel="Sport 1">
-    <title lang="cs">Tennis</title>
-    <sub-title lang="cs">WTA 250, Cluj Napoca, finále</sub-title>
-    <desc lang="cs">Tennis WTA Tour è il livello più alto di tennis professionistico femminile, che comprende dozzine di tornei in una stagione.Tennis WTA Tour è il livello più alto di tennis professionistico femminile, che comprende dozzine di tornei in una stagione.</desc>
-    <category lang="cs">Sport</category>
+  <programme start="20260318084700 +0100" stop="20260318091200 +0100" channel="MEZZO">
+    <title lang="pl">Wenzel Fuchs, Elena Bashkirova - Brahms: Sonata per clarinetto n. 1</title>
+    <credits>
+      <director>Jean-Claude Piroué</director>
+    </credits>
+    <date>1996</date>
+    <category lang="pl">concerto classico</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
-  <programme start="20260312130000 +0100" stop="20260312133000 +0100" channel="Sport 1">
-    <title lang="cs">I segreti del calcio, Massimo Allegri</title>
-    <category lang="cs">Sport</category>
+  <programme start="20260318091200 +0100" stop="20260318100000 +0100" channel="MEZZO">
+    <title lang="pl">InterMezzo</title>
+    <category lang="pl">programma musicale</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
-  <programme start="20260312133000 +0100" stop="20260312160000 +0100" channel="Sport 1">
-    <title lang="cs">Hockey su ghiaccio</title>
-    <sub-title lang="cs">Frölunda - Lulea</sub-title>
-    <desc lang="cs">CHL, finaleCHL, finale.</desc>
-    <category lang="cs">Sport</category>
+  <programme start="20260318100000 +0100" stop="20260318101100 +0100" channel="MEZZO">
+    <title lang="pl">Steinway &amp; Figli</title>
+    <desc lang="pl">Vai dietro le quinte della fabbrica Steinway &amp; Sons e scopri Spirio, l'incredibile tecnologia che consente a un pianoforte di riprodurre un'esecuzione esattamente come se fosse stata suonata dal vivo. Il signor Guido Zimmermann, presidente dell'azienda di pianoforti di fama mondiale, ci parla del concetto rivoluzionario, accompagnato da immagini della precisa e affascinante lavorazione e ingegneria che caratterizza ciascuno dei pianoforti Spirio. Il documentario di Hugo Cohen Sprung ci permette anche di approfondire l'esperienza del pianista francese e artista Steinway Bertrand Chamayou con la tecnologia e presenta un'anteprima del suo esclusivo concerto a due pianoforti in cui si esibisce con la sua "ombra".</desc>
+    <date>2025</date>
+    <category lang="pl">film documentario</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419736.jpg" />
   </programme>
-  <programme start="20260312160000 +0100" stop="20260312180000 +0100" channel="Sport 1">
-    <title lang="cs">Calcio</title>
-    <sub-title lang="cs">Serie A, 28. kolo</sub-title>
-    <category lang="cs">Sport</category>
+  <programme start="20260318101100 +0100" stop="20260318120500 +0100" channel="MEZZO">
+    <title lang="pl">Orchestra di Parigi, Khatia Buniatishvili, Klaus Mäkelä: Falla, Čajkovskij, Debussy, Ravel</title>
+    <credits>
+      <director>Isabelle Soulard</director>
+    </credits>
+    <date>2022</date>
+    <category lang="pl">concerto classico</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
-  <programme start="20260312180000 +0100" stop="20260312184500 +0100" channel="Sport 1">
-    <title lang="cs">Calcio</title>
-    <sub-title lang="cs">studio Lille - Aston Villa</sub-title>
-    <category lang="cs">Sport</category>
+  <programme start="20260318120500 +0100" stop="20260318125000 +0100" channel="MEZZO">
+    <title lang="pl">Jean-Yves Thibaudet, San Francisco Symphony Orchestra, Esa-Pekka Salonen: Scriabin - Prometeo</title>
+    <desc lang="pl">Orchestra Sinfonica di San Francisco, Esa-Pekka Salonen (direttore d'orchestra) Jean-Yves Thibaudet (pianoforte) Mathilde Laurent (profumo) Alexander Scriabin 1872 - 1915 Prometeo, il poema del fuoco Il poema sinfonico di Alexander Scriabin "Prometeo, il poema del fuoco" celebra la sinestesia e l'unità cosmica. Ideata dal direttore musicale della San Francisco Symphony Esa-Pekka Salonen, dal pianista Jean-Yves Thibaudet e dalla profumiera interna di Cartier Mathilde Laurent, la San Francisco Symphony e Cartier presentano una produzione multisensoriale di "Prometheus". Questa prima mondiale collaborativa combina performance musicali e luminose dinamiche con cura olfattiva, coinvolgendo il pubblico nella visione creativa di Skrjabin più di un secolo dopo la composizione dell'opera d'arte totale. Diretto da Sébastien Glas San Francisco, Davies Symphony Hall, 3 marzo 2024.</desc>
+    <credits>
+      <director>Sébastien Glas</director>
+    </credits>
+    <date>2024</date>
+    <category lang="pl">concerto classico</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
-  <programme start="20260312184500 +0100" stop="20260312204500 +0100" channel="Sport 1">
-    <title lang="cs">Calcio</title>
-    <sub-title lang="cs">Lille - Aston Villa</sub-title>
-    <desc lang="cs">Europa League, ottavi di finale Europa League, ottavi di finale.</desc>
-    <category lang="cs">Sport</category>
+  <programme start="20260318125000 +0100" stop="20260318133000 +0100" channel="MEZZO">
+    <title lang="pl">InterMezzo</title>
+    <category lang="pl">programma musicale</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
-  <programme start="20260312204500 +0100" stop="20260312210000 +0100" channel="Sport 1">
-    <title lang="cs">Calcio</title>
-    <sub-title lang="cs">studio Sigma Olomouc - Mainz</sub-title>
-    <desc lang="cs">Conference League, fase a legheConference League, fase a leghe.</desc>
-    <category lang="cs">Sport</category>
+  <programme start="20260318133000 +0100" stop="20260318145600 +0100" channel="MEZZO">
+    <title lang="pl">Scott Ross - Tracce di una stella cadente 1951 - 1989</title>
+    <desc lang="pl">Scott Ross - Traces of a Shooting Star 1951 - 1989 Scott on the Ross, about the recording of the 555 sonatas of Domenico Scarlatti Villeneuve lez Avignon, Tinel, April 1985 Produced by Bernard Tournois and Martina Catella Les maîtres de musique - Works by Domenico Scarlatti and Padre Antonio Soler Domenico Scarlatti 1685 - 1757 Sonata in D minor K 1 Sonata in A major K 6 Sonata in F sharp minor K 25 Sonata in B minor K 27 Sonata in E major K 380 Sonata in E major K 381 Sonata in A major K 208 Sonata in A major K 209 Antonio Soler 1729 - 1783 2 sonatas in D minor R 49 &amp; R 15 2 sonatas in F major R 56 &amp; R 69 Fandango R 146 Paris, Théâtre du Ranelagh, May 7, 1988 Directed by Georges Bessonnet Digital restoration 2024.</desc>
+    <credits>
+      <director>Bernard Tournois</director>
+      <director>Martina Catella</director>
+      <director>Georges Bessonnet</director>
+    </credits>
+    <date>2024</date>
+    <category lang="pl">film documentario</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984459.jpg" />
   </programme>
-  <programme start="20260312210000 +0100" stop="20260312230000 +0100" channel="Sport 1">
-    <title lang="cs">Calcio</title>
-    <sub-title lang="cs">Sigma Olomouc - Mohuč</sub-title>
-    <desc lang="cs">Conference League, ottavi di finale Conference League, ottavi di finale.</desc>
-    <category lang="cs">Sport</category>
+  <programme start="20260318145600 +0100" stop="20260318164700 +0100" channel="MEZZO">
+    <title lang="pl">John Eliot Gardiner dirige la Messa di Bach in si minore</title>
+    <date>2023</date>
+    <category lang="pl">concerto classico</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
-  <programme start="20260312230000 +0100" stop="20260312231500 +0100" channel="Sport 1">
-    <title lang="cs">Calcio</title>
-    <sub-title lang="cs">studio Sigma Olomouc - Mainz</sub-title>
-    <desc lang="cs">Conference League, fase a legheConference League, fase a leghe.</desc>
-    <category lang="cs">Sport</category>
+  <programme start="20260318164700 +0100" stop="20260318172500 +0100" channel="MEZZO">
+    <title lang="pl">InterMezzo</title>
+    <category lang="pl">programma musicale</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419708.jpg" />
   </programme>
-  <programme start="20260312231500 +0100" stop="20260313000000 +0100" channel="Sport 1">
-    <title lang="cs">MVP</title>
-    <sub-title lang="cs">Rozhovory o sportu, Róbert Mak, dnešní</sub-title>
-    <category lang="cs">Sport</category>
+  <programme start="20260318172500 +0100" stop="20260318185100 +0100" channel="MEZZO">
+    <title lang="pl">Rafael Payare, Orchestra Sinfonica di Montreal: Ravel, Shostakovich</title>
+    <credits>
+      <director>Claudine Gamache</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pl">concerto classico</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
+  </programme>
+  <programme start="20260318185100 +0100" stop="20260318203000 +0100" channel="MEZZO">
+    <title lang="pl">La Grande Danza - Aterballetto in Milan</title>
+    <desc lang="pl">La grande danza - Aterballetto a Milano Coreografie di Jirí Pokorny (Parole e Spazio), Giuseppe Spota (Narciso), Philippe Kratz (Phoenix) Aterballetto è la principale compagnia di danza produttrice e itinerante in Italia. Sono famosi per la loro capacità di spostare il loro stile attraverso una vasta gamma di generi musicali, dalla classica al pop e al jazz. "Parole e spazio" di Jirí Pokorny è una metafora di un discorso intrapersonale, un libro pieno di storie fluttuanti. È personale, intimo e molto poetico. 'Phoenix' si ispira all'idea del movimento circolare infinito della vita: nascita, crescita, immobilità, morte e infine ancora una volta nascita. Il coreografo Philippe Kratz cerca di capire chi eravamo e cosa siamo capaci di diventare. In 'Narciso' Giuseppe Spota getta uno sguardo sui giovani di oggi. Sono pronti a uscire dalle loro cornici virtuali e ad affrontare lo specchio della vita quotidiana? O finiranno tutti come Narciso, soli ad ammirare e ad amare se stessi? Diretto da Andreas Morell.</desc>
+    <credits>
+      <director>Andreas Morell</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pl">balletto</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028531.jpg" />
+  </programme>
+  <programme start="20260318203000 +0100" stop="20260318234800 +0100" channel="MEZZO">
+    <title lang="pl">Sartorio: L'Orfeo - Philippe Jaroussky - Opéra de Montpellier</title>
+    <desc lang="pl">L'Orfeo 'Dramma per musica' by Antonio Sartorio (1630 - 1680) Libretto by Aurelio Aureli First performance in Venice, Teatro Vendramino di San Salvatore, December 14, 1672 Ensemble Artaserse, Philippe Jaroussky (musical direction) Benjamin Lazar (stage director) Adeline Caron (sets), Alain Blanchot (costumes), Philippe Gladieux (lights), Mathilde Benmoussa (make-up, hairstyles) Arianna Vendittelli (Orfeo) Alicia Amo (Euridice) Kangmin Justin Kim (Aristeo) Zachary Wilder (Erinda) Maya Kherani (Autonoe) David Webb (Ercole) Yannis Francois (Chirone / Bacco) Paul Figuier (Achille) Renato Dolcini (Asculapio / Pluto) Gaia Petrone (Orillo) Chloé Scalese, Gabriel Avila Quintana, Théo Pendle (dancers) Montpellier, Opéra-Comédie, June 10, 2023.</desc>
+    <date>2023</date>
+    <category lang="pl">opera</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984463.jpg" />
+  </programme>
+  <programme start="20260318234800 +0100" stop="20260319010500 +0100" channel="MEZZO">
+    <title lang="pl">Robin McKelle: un omaggio a Ella Fitzgerald</title>
+    <credits>
+      <director>Sebastien Berge</director>
+    </credits>
+    <date>2024</date>
+    <category lang="pl">concerto jazz</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
   <programme start="20260313000000 +0100" stop="20260313020000 +0100" channel="Sport 1">
     <title lang="cs">Calcio</title>
@@ -1269,73 +1199,77 @@
     <sub-title lang="cs">Made in Italy, Jacopo Fazzini</sub-title>
     <category lang="cs">Sport</category>
   </programme>
-  <programme start="20260312010000 +0100" stop="20260312040000 +0100" channel="Sport 2">
+  <programme start="20260317000000 +0100" stop="20260317020000 +0100" channel="Sport 1">
     <title lang="cs">Hockey su ghiaccio</title>
-    <sub-title lang="cs">Tipsport Liga, Kvalifikace do playoff</sub-title>
+    <sub-title lang="cs">Växjö - Örebro</sub-title>
+    <desc lang="cs">SHL, parte baseSHL, parte base</desc>
     <category lang="cs">Sport</category>
   </programme>
-  <programme start="20260312040000 +0100" stop="20260312060000 +0100" channel="Sport 2">
-    <title lang="cs">Calcio</title>
-    <sub-title lang="cs">Bologna - Verona</sub-title>
-    <desc lang="cs">Serie A, 28. koloSerie A, 28. kolo.</desc>
+  <programme start="20260317020000 +0100" stop="20260317060000 +0100" channel="Sport 1">
+    <title lang="cs">Freccette</title>
+    <desc lang="cs">Trofeo Europeo di Freccette, Gottinga, Germania, Giorno 2, Parte 1 Trofeo Europeo di Freccette, Gottinga, Germania, Giorno 2, Parte 1.</desc>
     <category lang="cs">Sport</category>
   </programme>
-  <programme start="20260312060000 +0100" stop="20260312080000 +0100" channel="Sport 2">
-    <title lang="cs">Calcio</title>
-    <sub-title lang="cs">Lecce - Cremonese</sub-title>
-    <desc lang="cs">Serie A, 28. koloSerie A, 28. kolo.</desc>
-    <category lang="cs">Sport</category>
-  </programme>
-  <programme start="20260312080000 +0100" stop="20260312090000 +0100" channel="Sport 2">
+  <programme start="20260317060000 +0100" stop="20260317073000 +0100" channel="Sport 1">
     <title lang="cs">Acquisti televisivi</title>
     <category lang="cs">Sport</category>
   </programme>
-  <programme start="20260312090000 +0100" stop="20260312110000 +0100" channel="Sport 2">
-    <title lang="cs">Calcio</title>
-    <sub-title lang="cs">Atalanta - Udinse</sub-title>
-    <desc lang="cs">Serie A, 28. koloSerie A, 28. kolo.</desc>
+  <programme start="20260317073000 +0100" stop="20260317100000 +0100" channel="Sport 1">
+    <title lang="cs">Hockey su ghiaccio</title>
+    <sub-title lang="cs">Leksand - Frölunda</sub-title>
+    <desc lang="cs">SHL, parte baseSHL, parte base</desc>
     <category lang="cs">Sport</category>
   </programme>
-  <programme start="20260312110000 +0100" stop="20260312120000 +0100" channel="Sport 2">
+  <programme start="20260317100000 +0100" stop="20260317110000 +0100" channel="Sport 1">
     <title lang="cs">Acquisti televisivi</title>
     <category lang="cs">Sport</category>
   </programme>
-  <programme start="20260312120000 +0100" stop="20260312143000 +0100" channel="Sport 2">
+  <programme start="20260317110000 +0100" stop="20260317133000 +0100" channel="Sport 1">
     <title lang="cs">Hockey su ghiaccio</title>
-    <sub-title lang="cs">ZSC Lions - Davos</sub-title>
+    <sub-title lang="cs">Davos - Biel</sub-title>
     <desc lang="cs">National League, stagione regolareNational League, stagione regolare</desc>
     <category lang="cs">Sport</category>
   </programme>
-  <programme start="20260312143000 +0100" stop="20260312161500 +0100" channel="Sport 2">
-    <title lang="cs">Pallamano</title>
-    <sub-title lang="cs">Wisla Plock - Szeged</sub-title>
-    <desc lang="cs">Gruppo maschile di Champions League Gruppo maschile di Champions League</desc>
-    <category lang="cs">Sport</category>
-  </programme>
-  <programme start="20260312161500 +0100" stop="20260312180000 +0100" channel="Sport 2">
-    <title lang="cs">Pallamano</title>
-    <sub-title lang="cs">Liga mistrů, muži, základní skupina</sub-title>
-    <category lang="cs">Sport</category>
-  </programme>
-  <programme start="20260312180000 +0100" stop="20260312183000 +0100" channel="Sport 2">
+  <programme start="20260317133000 +0100" stop="20260317134500 +0100" channel="Sport 1">
     <title lang="cs">Calcio</title>
+    <sub-title lang="cs">Made in Italy, Jacopo Fazzini</sub-title>
     <category lang="cs">Sport</category>
   </programme>
-  <programme start="20260312183000 +0100" stop="20260312204500 +0100" channel="Sport 2">
-    <title lang="cs">Calcio</title>
-    <sub-title lang="cs">Stuttgart - Porto</sub-title>
-    <desc lang="cs">Europa League, ottavi di finale Europa League, ottavi di finale.</desc>
+  <programme start="20260317134500 +0100" stop="20260317144500 +0100" channel="Sport 1">
+    <title lang="cs">Poker</title>
+    <sub-title lang="cs">WSOP, sestřih hlavních událostí 15/14</sub-title>
     <category lang="cs">Sport</category>
   </programme>
-  <programme start="20260312204500 +0100" stop="20260312230000 +0100" channel="Sport 2">
-    <title lang="cs">Calcio</title>
-    <sub-title lang="cs">Nottingham - Midtjylland</sub-title>
-    <desc lang="cs">Europa League, ottavi di finale Europa League, ottavi di finale.</desc>
+  <programme start="20260317144500 +0100" stop="20260317154500 +0100" channel="Sport 1">
+    <title lang="cs">Poker</title>
+    <sub-title lang="cs">WSOP, sestřih hlavních událostí 15/15</sub-title>
     <category lang="cs">Sport</category>
   </programme>
-  <programme start="20260312230000 +0100" stop="20260313003000 +0100" channel="Sport 2">
+  <programme start="20260317154500 +0100" stop="20260317174500 +0100" channel="Sport 1">
+    <title lang="cs">Hockey su ghiaccio</title>
+    <sub-title lang="cs">Lulea - Rögle</sub-title>
+    <desc lang="cs">SHL, parte baseSHL, parte base</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260317174500 +0100" stop="20260317204500 +0100" channel="Sport 1">
+    <title lang="cs">Hockey su ghiaccio</title>
+    <sub-title lang="cs">HK 32 Liptovský Mikuláš - HKM Zvolen</sub-title>
+    <desc lang="cs">Tipsport Liga, Qualificazioni ai playoffTipsport Liga, Qualificazioni ai playoff.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260317204500 +0100" stop="20260317214500 +0100" channel="Sport 1">
     <title lang="cs">Calcio</title>
-    <sub-title lang="cs">EL a EKL, sestřih</sub-title>
+    <sub-title lang="cs">Serie A, 29. kolo, nové</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260317214500 +0100" stop="20260317234500 +0100" channel="Sport 1">
+    <title lang="cs">Calcio</title>
+    <sub-title lang="cs">Serie A, 29. kolo</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260317234500 +0100" stop="20260318014500 +0100" channel="Sport 1">
+    <title lang="cs">Calcio</title>
+    <sub-title lang="cs">Serie A, 29. kolo</sub-title>
     <category lang="cs">Sport</category>
   </programme>
   <programme start="20260313003000 +0100" stop="20260313023000 +0100" channel="Sport 2">
@@ -1599,6 +1533,62 @@
     <title lang="cs">Calcio</title>
     <sub-title lang="cs">Inter - Atalanta</sub-title>
     <desc lang="cs">Serie A, 29. koloSerie A, 29. kolo.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260317011500 +0100" stop="20260317031500 +0100" channel="Sport 2">
+    <title lang="cs">Calcio</title>
+    <sub-title lang="cs">Cremonese - Fiorentina</sub-title>
+    <desc lang="cs">Serie A, 29. koloSerie A, 29. kolo.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260317031500 +0100" stop="20260317060000 +0100" channel="Sport 2">
+    <title lang="cs">Scatola</title>
+    <sub-title lang="cs">Callum Simpson - Troy Williamson</sub-title>
+    <desc lang="cs">LeedsLeeds.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260317060000 +0100" stop="20260317080000 +0100" channel="Sport 2">
+    <title lang="cs">Calcio</title>
+    <sub-title lang="cs">Serie A, 29. kolo</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260317080000 +0100" stop="20260317090000 +0100" channel="Sport 2">
+    <title lang="cs">Acquisti televisivi</title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260317090000 +0100" stop="20260317110000 +0100" channel="Sport 2">
+    <title lang="cs">Calcio</title>
+    <sub-title lang="cs">Serie A, 29. kolo</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260317110000 +0100" stop="20260317120000 +0100" channel="Sport 2">
+    <title lang="cs">Acquisti televisivi</title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260317120000 +0100" stop="20260317160000 +0100" channel="Sport 2">
+    <title lang="cs">Freccette</title>
+    <desc lang="cs">Trofeo Europeo di Freccette, Gottinga, Germania, Giorno 3, Parte 2Trofeo Europeo di Freccette, Gottinga, Germania, Giorno 3, Parte 2.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260317160000 +0100" stop="20260317170000 +0100" channel="Sport 2">
+    <title lang="cs">Scatola</title>
+    <sub-title lang="cs">Hector Camacho Jr - Bryon Mackie</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260317170000 +0100" stop="20260317190000 +0100" channel="Sport 2">
+    <title lang="cs">Calcio</title>
+    <sub-title lang="cs">Serie A, 29. kolo</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260317190000 +0100" stop="20260317213000 +0100" channel="Sport 2">
+    <title lang="cs">Hockey su ghiaccio</title>
+    <sub-title lang="cs">SHL, Osmifinále</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260317213000 +0100" stop="20260318000000 +0100" channel="Sport 2">
+    <title lang="cs">Hockey su ghiaccio</title>
+    <sub-title lang="cs">Davos - Biel</sub-title>
+    <desc lang="cs">National League, stagione regolareNational League, stagione regolare</desc>
     <category lang="cs">Sport</category>
   </programme>
   </tv>
