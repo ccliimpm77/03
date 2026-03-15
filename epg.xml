@@ -1,15 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="EPG dostarcza http://kodiwpigulce.pl" generator-info-url="http://epg.ovh @sky02, @azman, @Max1000"><channel id="MEZZO">
-    <display-name lang="it">MEZZO</display-name>
-    <display-name lang="it">MEZZO HD</display-name>
-    <display-name lang="it">MEZZO FHD</display-name>
-    <display-name lang="it">MEZZO PL</display-name>
-    <display-name lang="it">MEZZO FHD PL</display-name>
-    <display-name lang="it">MEZZO HD PL</display-name>
-    <icon src="http://epg.ovh/logo/MEZZO.png" />
-    <url>http://www.epg.ovh</url>
-  </channel>
-  <channel id="Sky Sports F1">
+<tv generator-info-name="EPG dostarcza http://kodiwpigulce.pl" generator-info-url="http://epg.ovh @sky02, @azman, @Max1000"><channel id="Sky Sports F1">
     <display-name lang="it">Sky Sports F1</display-name>
     <icon src="http://epg.ovh/logo/Sky+Sports+F1.png" />
     <url>http://www.epg.ovh</url>
@@ -29,1020 +19,15 @@
     <icon src="http://epg.ovh/logo/Sport+2.png" />
     <url>http://www.epg.ovh</url>
   </channel>
-  <programme start="20260313005500 +0100" stop="20260313031900 +0100" channel="MEZZO">
-    <title lang="it">Grigory Sokolov alla Filarmonica di Berlino: Schubert, Beethoven, Rameau</title>
-    <credits>
-      <director>Bruno Monsaingeon</director>
-    </credits>
-    <date>2013</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260313031900 +0100" stop="20260313033100 +0100" channel="MEZZO">
-    <title lang="it">Steinway &amp; Figli</title>
-    <desc lang="it">Vai dietro le quinte della fabbrica Steinway &amp; Sons e scopri Spirio, l'incredibile tecnologia che consente a un pianoforte di riprodurre un'esecuzione esattamente come se fosse stata suonata dal vivo. Il signor Guido Zimmermann, presidente dell'azienda di pianoforti di fama mondiale, ci parla del concetto rivoluzionario, accompagnato da immagini della precisa e affascinante lavorazione e ingegneria che caratterizza ciascuno dei pianoforti Spirio. Il documentario di Hugo Cohen Sprung ci permette anche di approfondire l'esperienza del pianista francese e artista Steinway Bertrand Chamayou con la tecnologia e presenta un'anteprima del suo esclusivo concerto a due pianoforti in cui si esibisce con la sua "ombra".</desc>
-    <date>2025</date>
-    <category lang="it">film documentario</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984459.jpg" />
-  </programme>
-  <programme start="20260313033100 +0100" stop="20260313052400 +0100" channel="MEZZO">
-    <title lang="it">Orchestra di Parigi, Khatia Buniatishvili, Klaus Mäkelä: Falla, Čajkovskij, Debussy, Ravel</title>
-    <credits>
-      <director>Isabelle Soulard</director>
-    </credits>
-    <date>2022</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260313052400 +0100" stop="20260313061000 +0100" channel="MEZZO">
-    <title lang="it">Jean-Yves Thibaudet, San Francisco Symphony Orchestra, Esa-Pekka Salonen: Scriabin - Prometeo</title>
-    <desc lang="it">Orchestra Sinfonica di San Francisco, Esa-Pekka Salonen (direttore d'orchestra) Jean-Yves Thibaudet (pianoforte) Mathilde Laurent (profumo) Alexander Scriabin 1872 - 1915 Prometeo, il poema del fuoco Il poema sinfonico di Alexander Scriabin "Prometeo, il poema del fuoco" celebra la sinestesia e l'unità cosmica. Ideata dal direttore musicale della San Francisco Symphony Esa-Pekka Salonen, dal pianista Jean-Yves Thibaudet e dalla profumiera interna di Cartier Mathilde Laurent, la San Francisco Symphony e Cartier presentano una produzione multisensoriale di "Prometheus". Questa prima mondiale collaborativa combina performance musicali e luminose dinamiche con cura olfattiva, coinvolgendo il pubblico nella visione creativa di Skrjabin più di un secolo dopo la composizione dell'opera d'arte totale. Diretto da Sébastien Glas San Francisco, Davies Symphony Hall, 3 marzo 2024.</desc>
-    <credits>
-      <director>Sébastien Glas</director>
-    </credits>
-    <date>2024</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260313061000 +0100" stop="20260313073600 +0100" channel="MEZZO">
-    <title lang="it">Scott Ross - Tracce di una stella cadente 1951 - 1989</title>
-    <desc lang="it">Scott Ross - Traces of a Shooting Star 1951 - 1989 Scott on the Ross, about the recording of the 555 sonatas of Domenico Scarlatti Villeneuve lez Avignon, Tinel, April 1985 Produced by Bernard Tournois and Martina Catella Les maîtres de musique - Works by Domenico Scarlatti and Padre Antonio Soler Domenico Scarlatti 1685 - 1757 Sonata in D minor K 1 Sonata in A major K 6 Sonata in F sharp minor K 25 Sonata in B minor K 27 Sonata in E major K 380 Sonata in E major K 381 Sonata in A major K 208 Sonata in A major K 209 Antonio Soler 1729 - 1783 2 sonatas in D minor R 49 &amp; R 15 2 sonatas in F major R 56 &amp; R 69 Fandango R 146 Paris, Théâtre du Ranelagh, May 7, 1988 Directed by Georges Bessonnet Digital restoration 2024.</desc>
-    <credits>
-      <director>Bernard Tournois</director>
-      <director>Martina Catella</director>
-      <director>Georges Bessonnet</director>
-    </credits>
-    <date>2024</date>
-    <category lang="it">film documentario</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984494.jpg" />
-  </programme>
-  <programme start="20260313073600 +0100" stop="20260313092700 +0100" channel="MEZZO">
-    <title lang="it">John Eliot Gardiner dirige la Messa di Bach in si minore</title>
-    <date>2023</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260313092700 +0100" stop="20260313100000 +0100" channel="MEZZO">
-    <title lang="it">InterMezzo</title>
-    <category lang="it">programma musicale</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984464.jpg" />
-  </programme>
-  <programme start="20260313100000 +0100" stop="20260313113000 +0100" channel="MEZZO">
-    <title lang="it">Premio di Losanna: Rising Stars Gala 2026</title>
-    <desc lang="it">Losanna, Théâtre de Beaulieu, 8 febbraio 2026.</desc>
-    <date>2026</date>
-    <category lang="it">balletto</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419696.jpg" />
-  </programme>
-  <programme start="20260313113000 +0100" stop="20260313132100 +0100" channel="MEZZO">
-    <title lang="it">Claudio Abbado, Filarmonica di Berlino: Beethoven, Brahms, Dvorák</title>
-    <date>2002</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260313132100 +0100" stop="20260313133000 +0100" channel="MEZZO">
-    <title lang="it">InterMezzo</title>
-    <category lang="it">programma musicale</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260313133000 +0100" stop="20260313160700 +0100" channel="MEZZO">
-    <title lang="it">Serse' di Haendel all'Opera di Rouen</title>
-    <desc lang="it">Serse Opera in three acts by Georg Friedrich Handel (1685 - 1759) Libretto by Nicolo Minato and Silvio Stampiglia First performnce in London, King's Theatre, 15 April 1738 Opéra de Rouen Normandie Orchestra, David Bates (Musical direction, harpsichord) Clarac &amp; Deloeuil &gt; The Lab (Stage Direction, sets, costumes) Christophe Pitoiset (Set design collaboration), Lodie Kardouss (Artistic collaboration), Rick Martin (Lights), Julien Roques and Benjamin Juhel (Video), Julien Roques (Graphic design), Luc Bourrousse (Dramaturgy) Jake Arditti (Serse) Jakub Józef Orlinski (Arsamene) Cecilia Molinari (Amastre) Mari Eriksmoen (Romilda) Sophie Junker (Atalanta) Luigi de Donato (Ariodate) Elviro Riccardo (Novaro) Rouen, Théâtre des Arts, March 14, 2023.</desc>
-    <date>2023</date>
-    <category lang="it">opera</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984463.jpg" />
-  </programme>
-  <programme start="20260313160700 +0100" stop="20260313172500 +0100" channel="MEZZO">
-    <title lang="it">Orchestra Sinfonica di San Francisco, Esa-Pekka Salonen (direttore d'orchestra) Jean-Yves Thibaudet (pianoforte) Mathilde Laurent (profumo) Alexander Scriabin 1872 - 1915 Prometeo, il poema del fuoco Il poema sinfonico di Alexander Scriabin "Prometeo, il poema del fuoco" celebra la sinestesia e l'unità cosmica. Ideata dal direttore musicale della San Francisco Symphony Esa-Pekka Salonen, dal pianista Jean-Yves Thibaudet e dalla profumiera interna di Cartier Mathilde Laurent, la San Francisco Symphony e Cartier presentano una produzione multisensoriale di "Prometheus". Questa prima mondiale collaborativa combina performance musicali e luminose dinamiche con cura olfattiva, coinvolgendo il pubblico nella visione creativa di Skrjabin più di un secolo dopo la composizione dell'opera d'arte totale. Diretto da Sébastien Glas San Francisco, Davies Symphony Hall, 3 marzo 2024.</title>
-    <desc lang="it">Paco de Lucía: Luci e ombre Diretto da Michael Meert 1994.</desc>
-    <credits>
-      <director>Michael Meert</director>
-    </credits>
-    <date>2020</date>
-    <category lang="it">film documentario</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419736.jpg" />
-  </programme>
-  <programme start="20260313172500 +0100" stop="20260313180700 +0100" channel="MEZZO">
-    <title lang="it">Jimmy Witherspoon Quartet - Multiplatino</title>
-    <credits>
-      <director>Sandro Pedrazzetti</director>
-    </credits>
-    <date>1985</date>
-    <category lang="it">concerto jazz</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260313180700 +0100" stop="20260313184900 +0100" channel="MEZZO">
-    <title lang="it">Oregon - Jazztage berlinese</title>
-    <credits>
-      <director>Dieter Krause</director>
-    </credits>
-    <date>1980</date>
-    <category lang="it">concerto jazz</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260313184900 +0100" stop="20260313193200 +0100" channel="MEZZO">
-    <title lang="it">Dizzy Gillespie Quartet - Berliner Jazztage</title>
-    <credits>
-      <director>Sigrid Schröder</director>
-    </credits>
-    <date>1976</date>
-    <category lang="it">concerto jazz</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260313193200 +0100" stop="20260313203000 +0100" channel="MEZZO">
-    <title lang="it">Gil Evans Orchestra e Mccoy Tyner Sextet - Berliner Jazztage</title>
-    <credits>
-      <director>Oskar Krüger</director>
-    </credits>
-    <date>1976</date>
-    <category lang="it">concerto jazz</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260313203000 +0100" stop="20260313221000 +0100" channel="MEZZO">
-    <title lang="it">Orchestra Sinfonica di Londra, Simon Rattle: Jolas, Messiaen</title>
-    <date>2023</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260313221000 +0100" stop="20260314000100 +0100" channel="MEZZO">
-    <title lang="it">Orchestra Sinfonica di Londra, Simon Rattle: Sibelius, Bruckner</title>
-    <date>2022</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260314000100 +0100" stop="20260314025500 +0100" channel="MEZZO">
-    <title lang="it">Strauss: Arabella - Teatro Real di Madrid</title>
-    <desc lang="it">Arabella 'Commedia lirica' in tre atti Richard Strauss (1864-1949) Libretto di Hugo von Hofmannsthal Prima rappresentazione a Dresda, Sächsisches Staatstheater, 1 luglio 1933 Primo coro e orchestra del Teatro Real, David Afkham (direttore) Andrés Máspero (direttore del coro) Christof Loy (direzione scenica) Herbert Murauer (scenografia e costumi), Reinhard Traub (Luci), Thomas Wilhelm (Coreografia) Jacquelyn Wagner (Arabella) Sarah Defrise (Zdenka) Martin Winkler (Conte Waldner) Anne Sofie von Otter (Adelaide) Josef Wagner (Mandryka) Matthew Newlin (Matteo) Dean Power (Conte Elemer) Roger Smeets (Conte Dominik) Tyler Zimmerman (Conte Lamoral) Madrid, Teatro Real, 9 febbraio 2023.</desc>
-    <credits>
-      <director>Jérémie Cuvillier</director>
-    </credits>
-    <date>2023</date>
-    <category lang="it">opera</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984463.jpg" />
-  </programme>
-  <programme start="20260314025500 +0100" stop="20260314034700 +0100" channel="MEZZO">
-    <title lang="it">Carl Nielsen - Tra cielo e terra</title>
-    <credits>
-      <director>Magdalena Zięba-Schwind</director>
-    </credits>
-    <date>2022</date>
-    <category lang="it">film documentario</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419736.jpg" />
-  </programme>
-  <programme start="20260314034700 +0100" stop="20260314051700 +0100" channel="MEZZO">
-    <title lang="it">Cappella Mediterranea: Amore siciliano - Leonardo García Alarcón</title>
-    <desc lang="it">Cappella Mediterranea, Leonardo García Alarcón (musical direction) Ana Vieira Leite (soprano), Mariana Flores (soprano), Léo Fernique (countertenor), Valerio Contaldo (tenor), Matteo Bellotto (bass) Vincenzo Tozzi (1612 - 1679) Qual Suono Roland de Lassus (1532 -1594) Kyrie eleison Anonimo Fermarono i cieli Tommaso Carapella (1665 -1736) Ho vinto, Amor Anonimo U Ciucciu Cataldo Amodei (1650 -1695) Va, ché l'hai fatto a me Anonimo La canzone di Cecilia Sigismondo d'India (1582 -1629) Mercé ! Grido piangendo Pasquale Carroza Amantissime Jesu (Sinfonia) Cataldo Amodei In solitare arene Corrado Bonfiglio Caro amante José Marín (1618- 1699) Ojos, pues me desdenáis Giovanni M. Trabaci (1575 - 1647) Canzona francesa cromatica Sigismondo d'India Dispietata Pietate Cataldo Amodei La Parca Tirannide Vezzosa Anonimo A riturnella Santiago de Murcia (1673-1739) Tarantela Espanola Alessandro Scarlatti (1660 -1725) Mori mi dici Sigismondo d'India Piangono al pianger moi Leonardo García Alarcón (1976 - ) Madrigal in 5 in fugue on La Canzone di Cecilia Chantilly, Les Coups de Ceur de Chantilly, 12 October 2025.</desc>
-    <credits>
-      <director>Julien Condemine</director>
-    </credits>
-    <date>2025</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260314051700 +0100" stop="20260314071100 +0100" channel="MEZZO">
-    <title lang="it">Ted Brandsen: Mata Hari - Balletto Nazionale Olandese</title>
-    <desc lang="it">Mata Hari Coreografia di Ted Brandsen Libretto di Janine Brogt Musica di Tarik O'Regan Dutch Ballet Orchestra Matthew Rowe, direttore d'orchestra, scenografie, costumi Clement &amp; Sanôu, Francis-Christmas Cherpin Artur Shesterikov Shiva - Young Gyu Choi Temple Dancer - Wen Ting Guan Frieda McLeod - Emanuel Merdjanova Isadora Duncan - Erica Horwood The Lady - Nadia Yanowsky MC - Edo Wijnen M. Guimet - Anatole Babenko Tenente Ladoux - Roman Artyushkin Zie - Wendeline Wijkstra, Pascalle Paerel e Hannah de Gli zii Klein - Wolfgang Tietze, Peter Leung e Matthew Pawlicki-Sinclair Gli zii Klein - Wolfgang Tietze, Peter Leung e Matthew Pawlicki-Sinclair</desc>
-    <credits>
-      <director>Jeff Tudor</director>
-    </credits>
-    <date>2015</date>
-    <category lang="it">balletto</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419696.jpg" />
-  </programme>
-  <programme start="20260314071100 +0100" stop="20260314081500 +0100" channel="MEZZO">
-    <title lang="it">Martha Argerich, Maxim Vengerov, Mischa Maisky: Beethoven, Saint-Saëns</title>
-    <credits>
-      <director>Christophe Boula</director>
-    </credits>
-    <date>2021</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260314081500 +0100" stop="20260314085600 +0100" channel="MEZZO">
-    <title lang="it">Brahms: Quintetto per clarinetto in si minore, op. 115 - Solisti di Berlino</title>
-    <credits>
-      <director>Klaas Rusticus</director>
-    </credits>
-    <date>1989</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260314085600 +0100" stop="20260314100000 +0100" channel="MEZZO">
-    <title lang="it">Brahms: Quartetto con pianoforte n. 3 - András Schiff, Yuuko Shiokawa, Nobuko Imai, Miklós Perényi</title>
-    <credits>
-      <director>Janos Darvas</director>
-    </credits>
-    <date>1992</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260314100000 +0100" stop="20260314125200 +0100" channel="MEZZO">
-    <title lang="it">Puccini: Il Trittico - Teatro della Menta</title>
-    <desc lang="it">Il Trittico Three operas in one act by Giacomo Puccini 1858 -1924 Il Tabarro Libretto by Giuseppe Adami, based on 'La Houppelande' by Didier Gold Suor Angelica Libretto by Giovacchino Forzano Gianni Schicchi Libretto by Giovacchino Forzano, based on an episode in Dante's 'Divine Comedy' First performance in New York, Metropolitan Opera, December 14, 1918 La Monnaie Symphony Orchestra and Choirs, La Monnaie Children's and Youth Choirs, Alain Altinoglu (Musical Direction) Alberto Moro (Choir leader) Tobias Kratzer (Director) Rainer Sellmaier (Sets &amp; costumes), Bernd Purkrabek (Lighting), Manuel Braun (Video) Il Tabarro Peter Kálmán (Michele) Corinne Winters (Giorgetta) Adam Smith (Luigi Amante) Roberto Covatta (Il Tinca) Giovanni Furlanetto (Il Talpa) Maxime Melnik (Un venditore di canzonette) Annunziata Vestri (La Frugola) Benedetta Torre (Amante) Suor Angelica Corinne Winters (Suor Angelica) Raehann Bryce-Davis (La zia principessa) Elena Zilio (La badessa) Annunziata Vestri (La suora zelatrice) Tineke Van Ingelgem (La maestra delle novizie La suora infirmiera) Benedetta Torre (Suor Genovieffa) Annelies Kerstens (Suor Osmina) Raphaële Green (Suor Dolcina) Karen Vermeiren (Prima sorella cercatrice) Marta Beretta (Seconda sorella cercatrice) Emma Posman (Una novizia) Gianni Schicchi Peter Kálmán (Gianni Schicchi) Benedetta Torre (Lauretta) Elena Zilio (Zita) Adam Smith (Rinuccio) Roberto Covatta (Gherardo) Karen Vermeiren (Nella) Luca Dall'Amico (Betto di Signa) Giovanni Furlanetto (Simone) Gabriele Nani (Marco) Tineke Van Ingelgem (La Ciesca) Roberto Accurso (Maestro Spinelloccio Ser Amantio di Nicolao) Kurt Gysen (Pinellino) Lucas Cortoos (Guccio) Henri de Beauffort (Gherardino) Gerard Lavalle (Buoso Donati) Brussels, Théâtre de la Monnaie / De Munt, April 30, 2022.</desc>
-    <credits>
-      <director>Jérémie Cuvillier</director>
-    </credits>
-    <date>2022</date>
-    <category lang="it">opera</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984463.jpg" />
-  </programme>
-  <programme start="20260314125200 +0100" stop="20260314133000 +0100" channel="MEZZO">
-    <title lang="it">InterMezzo</title>
-    <category lang="it">programma musicale</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260314133000 +0100" stop="20260314144600 +0100" channel="MEZZO">
-    <title lang="it">Robin McKelle: un omaggio a Ella Fitzgerald</title>
-    <credits>
-      <director>Sebastien Berge</director>
-    </credits>
-    <date>2024</date>
-    <category lang="it">concerto jazz</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260314144600 +0100" stop="20260314153700 +0100" channel="MEZZO">
-    <title lang="it">McCoy Tyner: pianoforte solista</title>
-    <credits>
-      <director>Janos Darvas</director>
-    </credits>
-    <date>1983</date>
-    <category lang="it">concerto jazz</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260314153700 +0100" stop="20260314162500 +0100" channel="MEZZO">
-    <title lang="it">Mel Lewis Orchestra – Multiplatino</title>
-    <credits>
-      <director>Sandro Pedrazzetti</director>
-    </credits>
-    <date>1985</date>
-    <category lang="it">concerto jazz</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260314162500 +0100" stop="20260314171500 +0100" channel="MEZZO">
-    <title lang="it">InterMezzo</title>
-    <category lang="it">programma musicale</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419708.jpg" />
-  </programme>
-  <programme start="20260314171500 +0100" stop="20260314185600 +0100" channel="MEZZO">
-    <title lang="it">Orchestra di Parigi, Esa-Pekka Salonen, Aliisa Neige Barriere: Saariaho, Sibelius, Lindberg</title>
-    <date>2024</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260314185600 +0100" stop="20260314203000 +0100" channel="MEZZO">
-    <title lang="it">Claudio Abbado, Filarmonica di Berlino: Brahms</title>
-    <credits>
-      <director>Bob Coles</director>
-    </credits>
-    <date>1997</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260314203000 +0100" stop="20260314232800 +0100" channel="MEZZO">
-    <title lang="it">Le nozze di Figaro by Mozart at the Salzburg Festival</title>
-    <desc lang="it">Le nozze di Figaro 'Opera buffa' in four acts by Wolfgang Amadeus Mozart (1756 - 1791) Libretto by Lorenzo Da Ponte based on 'La folle journée, ou le Mariage de Figaro' by Pierre-Augustin Caron de Beaumarchais First performance in Vienna, Burgtheater, 1 May 1786 Vienna Philharmonic Orchestra, Raphaël Pichon (Conductor) Martin Kusej (Stage director) Raimund Orfeo Voigt (Set designer), Alan Hranitelj (Costume designer), Friedrich Rom (Lighting designer) Krzysztof Bączyk (Figaro) Sabine Devieilhe (Susanna) Andre Schuen (Il Conte di Almaviva) Adriana González (La Contessa di Almaviva) Léa Desandre (Cherubino) Peter Kálmán (Bartolo) Kristina Hammarström (Marcellina) Manuel Günther (Basilio) Serafina Starke (Barbarina) Rafał Pawnuk (Antonio) Andrew Morstein (Don Curzio) Salzburg Festival, 27 July 2023.</desc>
-    <date>2023</date>
-    <category lang="it">opera</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028629.jpg" />
-  </programme>
-  <programme start="20260314232800 +0100" stop="20260315010000 +0100" channel="MEZZO">
-    <title lang="it">Orchestra Filarmonica di Monaco, Daniel Harding, Leonidas Kavakos: Čajkovskij, Dvorak</title>
-    <date>2022</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260315010000 +0100" stop="20260315023300 +0100" channel="MEZZO">
-    <title lang="it">Martha Argerich, Maria Joao Pires, Orchestre de la Suisse Romande, Daniel Harding: Mozart, Mahler</title>
-    <credits>
-      <director>Andy Sommer</director>
-    </credits>
-    <date>2021</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260315023300 +0100" stop="20260315035700 +0100" channel="MEZZO">
-    <title lang="it">La Nona Sinfonia di Maurice Béjart - Béjart Ballet Losanna, Tokyo Ballet</title>
-    <desc lang="it">La Nona Sinfonia Maurice Bejart, coreografia Dopo l'Inno alla Gioia di Schiller Ludwig van Beethoven, musica Maurice Bejart, messa in scena Friedrich Nietzsche, prologo Gil Roman, direttore artistico Israel Philharmonic Orchestra Zubin Mehta, direttore Ritsuyukai Choir Kufiami Kuriyama, maestro del coro Gil Roman, voce narrante Kristin Lewis, soprano Mihoko Fujimura, mezzosoprano Kei Fukui, tenore Alexander Vinogradov, basso JB Meier e Thierry Hochstätter, percussioni Joëlle Roustan e Roger Bernard, costumi e scenografie originali Henri Davila, adattamento costumi Dominique Roman, realizzazione luci Piotr Nardelli, maestro di ballo revival Con The Béjart Ballet Lausanne The Tokyo Ballet and Soloists Dan Tsukamoto, Mizuka Ueno, Iori Nittono, Aya Takagi, Kathleen Thielheilm, Masayoshi Onuki, Elizabeth Ros, Juien Favreau, Lisa Cano, Fabrice Gallarrague, Pauline Voisard, Felipe Rocha, Oscar Chacon, Keisuke Nasuno, Marsha Rodriguez, Cosima Munoz, Mari Ohashi, Kwinten Williams, Aldriana Vargas Lopez, Hector Navarro, Alanna Archibald Registrato il 9 novembre 2014 presso la NHK Hall Tokyo TV Direttore Mari Hnamasu.</desc>
-    <credits>
-      <director>Mari Hnamasu</director>
-    </credits>
-    <date>2014</date>
-    <category lang="it">balletto</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419696.jpg" />
-  </programme>
-  <programme start="20260315035700 +0100" stop="20260315051300 +0100" channel="MEZZO">
-    <title lang="it">Festival di musica da camera di Gerusalemme: Rachmaninov, Weinberg</title>
-    <credits>
-      <director>John Blanch</director>
-    </credits>
-    <date>2023</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260315051300 +0100" stop="20260315074300 +0100" channel="MEZZO">
-    <title lang="it">Beethoven: Fidelio - Opera Nazionale Olandese</title>
-    <desc lang="it">Fidelio Opera in due atti di Ludwig van Beethoven (1770 - 1827) Libretto di Joseph Sonnleitner e Stephan von Breuning Prima rappresentazione a Vienna, Theater und der Wien, 20 novembre 1805 Orchestra reale del Concertgebouw, Andrés Orozco Estrada (direttore) Coro dell'Opera nazionale olandese, Edward Ananian-Cooper (maestro del coro) Andriy Zholdak (regia, scenografia e luci design) Andriy Zholdak, Simon Machabeli (costumi) Andriy Zholdak, Daniel Zholdak (scenografia) Etienne Guiol (video design) Jacquelyn Wagner (Leonore) Eric Cutler (Florestan) James Creswell (Rocco) Nicholas Brownlee (Don Pizarro) Anna El-Khashem (Marzelline) Linard Vrielink (Jaquino) Mark Kurmanbayev (Don Fernando) Amsterdam, Dutch National Opera, 29 giugno 2024.</desc>
-    <credits>
-      <director>Ferenc Soeteman</director>
-    </credits>
-    <date>2024</date>
-    <category lang="it">opera</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984463.jpg" />
-  </programme>
-  <programme start="20260315074300 +0100" stop="20260315100000 +0100" channel="MEZZO">
-    <title lang="it">Insieme per l'Umanità, Concerto per la pace</title>
-    <desc lang="it">Milan Al-Ashhab, Bilal Alnemr, Elias Elias, Michael Guttman, Gidon Kremer, Sergey Ostrovsky, Tedi Papavrami (violino), Lyda Chen, Amihai Grosz, Blythe Teh Engstroem (violino), Steven Isserlis, Victor Julien-Laferriere, Jing Zhao (Checello), A.C. Havital (Avital). (Mandolino), Gil Dor (Chitarra), Taiseer Elias (Oud), Martha Argerich, Sergei Babayan, Iddo Bar-Shai, Nizar Elkhater, Leonardo García Alarcón (Piano), Noa (Cantante), Mariana Flores (Soprano), Magdalena Kozená (Mezzo-soprano), Swedish (Attore Young Coctor), Robert Herzog (Coctor) Schumann Fantasiestücke per clarinetto (o violoncello/violino) e pianoforte, op. 73 Dichterliebe, op. 48 10. Hör' ich das Liedchen klingen Nizar Elkhater Mowashah Ernest Bloch Dalla vita ebraica, per violoncello e pianoforte I. Prayer Jules Massenet Élégie Frédéric Chopin Valzer in mi minore, op. post. Antonín Dvorák Danze slave op. 72 2. Dumka. Allegretto grazioso (mi minore) Mateo Romero Romerico florido Mercedes Sosa Alfonsina y el mar Felix Mendelssohn-Bartholdy Ottetto per archi in mi bemolle maggiore, op. 20 1. Allegro moderato ma con fuoco Valentin Silvestrov Serenata Mieczysław Weinberg/Gidon Kremer 24 Preludi per violoncello op. 100 (arr. per violino) n. 5 Johannes Brahms Due canzoni, op. 91 1. Gestillte Sehnsucht (Desiderio placato) Sergei Prokofiev Ouverture su temi ebraici, op. 34 Arvo Pärt Für Alina Riad Al Sunbati/Taiseer Elias/Avi Avital Longa Riad Noa/Mira Awad/Gil Dor There Must Be Another Way Johann Sebastian Bach/Noa (Achinoam Nini) Look At Me (Largo from BWV 1056) der Zeit allerbeste,' BWV 106: Sonatina (Arr. per pianoforte a quattro mani) Robert Schumann Quintetto per pianoforte in Mi bemolle maggiore, op. 44 1. Allegro brillante Ginevra, La Cité Bleue, 21 settembre 2025.</desc>
-    <date>2024</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260315100000 +0100" stop="20260315112700 +0100" channel="MEZZO">
-    <title lang="it">Youn Sun Nah Quartetto - Annecy</title>
-    <credits>
-      <director>Samuel Thiebaut</director>
-    </credits>
-    <date>2023</date>
-    <category lang="it">concerto jazz</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260315112700 +0100" stop="20260315123900 +0100" channel="MEZZO">
-    <title lang="it">Joachim Kühn in concerto - Estate pianistica</title>
-    <credits>
-      <director>Dieter Hens</director>
-    </credits>
-    <date>1999</date>
-    <category lang="it">concerto jazz</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260315123900 +0100" stop="20260315133000 +0100" channel="MEZZO">
-    <title lang="it">Jimmy Witherspoon Quartet - Multiplatino</title>
-    <credits>
-      <director>Sandro Pedrazzetti</director>
-    </credits>
-    <date>1985</date>
-    <category lang="it">concerto jazz</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260315133000 +0100" stop="20260315145900 +0100" channel="MEZZO">
-    <title lang="it">Concorso internazionale di direzione d'orchestra Rotterdam 2025</title>
-    <credits>
-      <director>Nander Cirkel</director>
-    </credits>
-    <date>2025</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260315145900 +0100" stop="20260315160800 +0100" channel="MEZZO">
-    <title lang="it">Sonya Yoncheva, Malcolm Martineau - Rencontres Musicales d'Evian</title>
-    <credits>
-      <director>Mariano Nante</director>
-    </credits>
-    <date>2024</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260315160800 +0100" stop="20260315180500 +0100" channel="MEZZO">
-    <title lang="it">Jascha Heifetz - Il violinista di Dio</title>
-    <desc lang="it">Jascha Heifetz - Il violinista di Dio Non si vedeva dai tempi di Paganini un simile mago del violino, un "ragazzo prodigio" della musica che avrebbe fissato gli standard per quasi un secolo. Attraverso filmati amatoriali e foto personali di famiglia scattate dal 1903 al 1987, questo documentario girato a Vilna, Lituania, San Pietroburgo, Russia e a Los Angeles, ricrea una vita che ha attraversato il XX secolo. Abbiamo sentito da tutti i grandi violinisti della sua generazione, e da molti dei suoi ex studenti ancora in vita, che Heifetz era una figura leggendaria ma misteriosa, la cui storia incarna la duplice natura del genio artistico. L'uomo e l'artista sono la stessa persona? Qual è il prezzo che ciascuno paga? E chi era l'uomo dietro la musica? Diretto da Peter Rosen 2011.</desc>
-    <credits>
-      <director>Peter Rosen</director>
-    </credits>
-    <date>2011</date>
-    <category lang="it">film documentario</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984494.jpg" />
-  </programme>
-  <programme start="20260315180500 +0100" stop="20260315203000 +0100" channel="MEZZO">
-    <title lang="it">Verdi: Falstaff - Opera di Lille</title>
-    <desc lang="it">Falstaff 'Commedia lirica' in three acts by Giuseppe Verdi (1813-1901) Libretto by Arrigo Boito First performance in Milan, Teatro alla Scala, February 9, 1893 Orchestre National de Lille, Cheur de l'Opéra de Lille Antonello Allemandi (conductor) Denis Podalydes (stage director) Éric Ruf (sets), Christian Lacroix (costumes), Bertrand Couderc (lights) Tassis Christoyannis (Falstaff) Gabrielle Philiponet (Alice Ford) Julie Robard-Gendre (Meg Page) Silvia Beltrami (Mrs Quickly) Clara Guillon (Nannetta) Gezim Myshketa (Ford) Kevin Amiel (Fenton) Luca Lombardo (Dr Caius) Loic Felix (Bardolfo) Damien Pass (Pistola) Laurent Podalydes, Léo Reynaud (actors) Lille, Opera, May 14, 2023.</desc>
-    <date>2023</date>
-    <category lang="it">opera</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028629.jpg" />
-  </programme>
-  <programme start="20260315203000 +0100" stop="20260315215400 +0100" channel="MEZZO">
-    <title lang="it">Verdi: Requiem - Jukka-Pekka Saraste, Orchestre National du Capitole de Toulouse</title>
-    <credits>
-      <director>Jean-Pierre Loisil</director>
-    </credits>
-    <date>2022</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260315215400 +0100" stop="20260316000100 +0100" channel="MEZZO">
-    <title lang="it">Franck: Le Beatitudini - Gergely Madaras, Orchestra Filarmonica Reale di Liegi</title>
-    <credits>
-      <director>Yan Proefrock</director>
-    </credits>
-    <date>2022</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260316000100 +0100" stop="20260316005400 +0100" channel="MEZZO">
-    <title lang="it">Gli ebrei di Wagner</title>
-    <desc lang="it">Gli ebrei di Wagner Richard Wagner era notoriamente antisemita, e i suoi scritti sugli ebrei furono successivamente accolti da Hitler e dai nazisti. Ma per anni, molti dei più stretti collaboratori di Wagner furono ebrei, giovani musicisti che gli si dedicarono personalmente e fornirono un aiuto cruciale al suo lavoro e alla sua carriera. Perché erano attratti da lui? E come potrebbe Wagner accettare il loro abbraccio? Queste domande sono al centro di "Gli ebrei di Wagner", il primo film incentrato sulle complesse relazioni personali di Wagner con gli ebrei. Girato in Germania, Svizzera e Italia, "Gli ebrei di Wagner" rivela questa straordinaria storia attraverso fonti d'archivio, rievocazioni, interviste ed esecuzioni di opere musicali originali dei colleghi ebrei di Wagner. Con la partecipazione di Zubin Mehta e Leon Botstein, tra gli altri, il film esplora anche la controversia in corso sull'esecuzione della musica di Wagner in Israele. Le stesse domande poste ai tempi di Wagner risuonano ancora oggi: è possibile separare l'arte dal suo creatore? Può la musica sublime trascendere il pregiudizio, il fanatismo e il peso della storia? Diretto da Hilan Warshaw 2013.</desc>
-    <credits>
-      <director>Hilan Warshaw</director>
-    </credits>
-    <date>2013</date>
-    <category lang="it">film documentario</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419736.jpg" />
-  </programme>
-  <programme start="20260316005400 +0100" stop="20260316024500 +0100" channel="MEZZO">
-    <title lang="it">Orchestra del Lucerne Festival, Riccardo Chailly, Mao Fujita - Rachmaninoff</title>
-    <date>2022</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260316024500 +0100" stop="20260316051600 +0100" channel="MEZZO">
-    <title lang="it">Beethoven: Fidelio - Opera Nazionale Olandese</title>
-    <desc lang="it">Fidelio Opera in due atti di Ludwig van Beethoven (1770 - 1827) Libretto di Joseph Sonnleitner e Stephan von Breuning Prima rappresentazione a Vienna, Theater und der Wien, 20 novembre 1805 Orchestra reale del Concertgebouw, Andrés Orozco Estrada (direttore) Coro dell'Opera nazionale olandese, Edward Ananian-Cooper (maestro del coro) Andriy Zholdak (regia, scenografia e luci design) Andriy Zholdak, Simon Machabeli (costumi) Andriy Zholdak, Daniel Zholdak (scenografia) Etienne Guiol (video design) Jacquelyn Wagner (Leonore) Eric Cutler (Florestan) James Creswell (Rocco) Nicholas Brownlee (Don Pizarro) Anna El-Khashem (Marzelline) Linard Vrielink (Jaquino) Mark Kurmanbayev (Don Fernando) Amsterdam, Dutch National Opera, 29 giugno 2024.</desc>
-    <credits>
-      <director>Ferenc Soeteman</director>
-    </credits>
-    <date>2024</date>
-    <category lang="it">opera</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984463.jpg" />
-  </programme>
-  <programme start="20260316051600 +0100" stop="20260316064900 +0100" channel="MEZZO">
-    <title lang="it">John McLaughlin, La quarta dimensione: dalla A al jazz</title>
-    <date>2022</date>
-    <category lang="it">concerto jazz</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260316064900 +0100" stop="20260316080300 +0100" channel="MEZZO">
-    <title lang="it">Marc Ribot - The Jazz-Bins - Banlieues Bleues</title>
-    <credits>
-      <director>Stéphane Jourdain</director>
-    </credits>
-    <date>2023</date>
-    <category lang="it">concerto jazz</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260316080300 +0100" stop="20260316083200 +0100" channel="MEZZO">
-    <title lang="it">Itzhak Perlman, Daniel Barenboim - Brahms: Sonata per violino n. 1</title>
-    <credits>
-      <director>Janos Darvas</director>
-    </credits>
-    <date>1989</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260316083200 +0100" stop="20260316085300 +0100" channel="MEZZO">
-    <title lang="it">Itzhak Perlman, Daniel Barenboim - Brahms: Sonata per violino n. 2</title>
-    <credits>
-      <director>Janos Darvas</director>
-    </credits>
-    <date>1989</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260316085300 +0100" stop="20260316091500 +0100" channel="MEZZO">
-    <title lang="it">Boris Pergamenschikow, Elena Bashkirova, Maxim Vengerov - Brahms: Trio per pianoforte n.3</title>
-    <credits>
-      <director>Janos Darvas</director>
-    </credits>
-    <date>1997</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260316091500 +0100" stop="20260316100000 +0100" channel="MEZZO">
-    <title lang="it">InterMezzo</title>
-    <category lang="it">programma musicale</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260316100000 +0100" stop="20260316112900 +0100" channel="MEZZO">
-    <title lang="it">Concorso internazionale di direzione d'orchestra Rotterdam 2025</title>
-    <credits>
-      <director>Nander Cirkel</director>
-    </credits>
-    <date>2025</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260316112900 +0100" stop="20260316123800 +0100" channel="MEZZO">
-    <title lang="it">Sonya Yoncheva, Malcolm Martineau - Rencontres Musicales d'Evian</title>
-    <credits>
-      <director>Mariano Nante</director>
-    </credits>
-    <date>2024</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260316123800 +0100" stop="20260316133000 +0100" channel="MEZZO">
-    <title lang="it">InterMezzo</title>
-    <category lang="it">programma musicale</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260316133000 +0100" stop="20260316182000 +0100" channel="MEZZO">
-    <title lang="it">Wagner: Il crepuscolo degli dei - Teatro dell'Opera di Zurigo</title>
-    <desc lang="it">Götterdämmerung Terzo giorno in tre atti di 'Der Ring des Nibelungen' di Richard Wagner (1813 - 1883) Libretto di Richard Wagner Bayreuth, Festspielhaus, 17 agosto 1876 Philharmonia Zurich Gianandrea Noseda (direttore d'orchestra) Andreas Homoki (regia) Christian Schmidt (scenografia e costumi), Franck Evin (design luci) Klaus Florian Vogt (Siegfried) Daniel Fehlhard (Gunther) Christopher Purves (Alberich) David Leigh (Hagen) Camilla Nylund (Brünnhilde) Lauren Fagan (Gutrune) Sarah Ferede (Waltraute) Freya Apffelstaedt (Prima Norna) Lena Sutor-Wernich (Seconda Nonna) Giselle Allen (Terza Nonna) Uliana Alexyuk (Woglinde) Niamh O'Sullivan (Wellgunde) Siena Licht Miller (Floßhilde) Zurigo, Teatro dell'Opera, 26 maggio 2024.</desc>
-    <credits>
-      <director>Michael Beyer</director>
-    </credits>
-    <date>2024</date>
-    <category lang="it">opera</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028629.jpg" />
-  </programme>
-  <programme start="20260316182000 +0100" stop="20260316183900 +0100" channel="MEZZO">
-    <title lang="it">Bomsori Kim, Camerata Salisburgo - Mozart: Concerto per violino n. 2</title>
-    <credits>
-      <director>Alexander Radulescu</director>
-    </credits>
-    <date>2021</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260316183900 +0100" stop="20260316190800 +0100" channel="MEZZO">
-    <title lang="it">Bomsori Kim, Camerata Salisburgo - Mozart: Concerto per violino n.5</title>
-    <credits>
-      <director>Alexander Radulescu</director>
-    </credits>
-    <date>2021</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260316190800 +0100" stop="20260316193100 +0100" channel="MEZZO">
-    <title lang="it">Bomsori Kim, Camerata Salisburgo - Mozart: Concerto per violino n.4</title>
-    <credits>
-      <director>Alexander Radulescu</director>
-    </credits>
-    <date>2021</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260316193100 +0100" stop="20260316195500 +0100" channel="MEZZO">
-    <title lang="it">Bomsori Kim, Camerata Salisburgo - Mozart: Concerto per violino n.3</title>
-    <credits>
-      <director>Alexander Radulescu</director>
-    </credits>
-    <date>2021</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260316195500 +0100" stop="20260316203000 +0100" channel="MEZZO">
-    <title lang="it">Bomsori Kim, Camerata Salisburgo - Mozart: Concerto per violino n. 1</title>
-    <credits>
-      <director>Alexander Radulescu</director>
-    </credits>
-    <date>2021</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260316203000 +0100" stop="20260316221600 +0100" channel="MEZZO">
-    <title lang="it">Glenn Gould - D'ora in poi</title>
-    <desc lang="it">Glenn Gould - Hereafter Diretto da Bruno Monsainge nel 2005.</desc>
-    <credits>
-      <director>Bruno Monsaingeon</director>
-    </credits>
-    <date>2005</date>
-    <category lang="it">film documentario</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984459.jpg" />
-  </programme>
-  <programme start="20260316221600 +0100" stop="20260316233800 +0100" channel="MEZZO">
-    <title lang="it">Théotime Langlois de Swarte, Orchestra dell'Opera Reale: Bach</title>
-    <credits>
-      <director>Isabelle Soulard</director>
-    </credits>
-    <date>2023</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260316233800 +0100" stop="20260317010200 +0100" channel="MEZZO">
-    <title lang="it">La Nona Sinfonia di Maurice Béjart - Béjart Ballet Losanna, Tokyo Ballet</title>
-    <desc lang="it">La Nona Sinfonia Maurice Bejart, coreografia Dopo l'Inno alla Gioia di Schiller Ludwig van Beethoven, musica Maurice Bejart, messa in scena Friedrich Nietzsche, prologo Gil Roman, direttore artistico Israel Philharmonic Orchestra Zubin Mehta, direttore Ritsuyukai Choir Kufiami Kuriyama, maestro del coro Gil Roman, voce narrante Kristin Lewis, soprano Mihoko Fujimura, mezzosoprano Kei Fukui, tenore Alexander Vinogradov, basso JB Meier e Thierry Hochstätter, percussioni Joëlle Roustan e Roger Bernard, costumi e scenografie originali Henri Davila, adattamento costumi Dominique Roman, realizzazione luci Piotr Nardelli, maestro di ballo revival Con The Béjart Ballet Lausanne The Tokyo Ballet and Soloists Dan Tsukamoto, Mizuka Ueno, Iori Nittono, Aya Takagi, Kathleen Thielheilm, Masayoshi Onuki, Elizabeth Ros, Juien Favreau, Lisa Cano, Fabrice Gallarrague, Pauline Voisard, Felipe Rocha, Oscar Chacon, Keisuke Nasuno, Marsha Rodriguez, Cosima Munoz, Mari Ohashi, Kwinten Williams, Aldriana Vargas Lopez, Hector Navarro, Alanna Archibald Registrato il 9 novembre 2014 presso la NHK Hall Tokyo TV Direttore Mari Hnamasu.</desc>
-    <credits>
-      <director>Mari Hnamasu</director>
-    </credits>
-    <date>2014</date>
-    <category lang="it">balletto</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419696.jpg" />
-  </programme>
-  <programme start="20260317010200 +0100" stop="20260317021700 +0100" channel="MEZZO">
-    <title lang="it">Festival di musica da camera di Gerusalemme: Rachmaninov, Weinberg</title>
-    <credits>
-      <director>John Blanch</director>
-    </credits>
-    <date>2023</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260317021700 +0100" stop="20260317030100 +0100" channel="MEZZO">
-    <title lang="it">Dizzy Gillespie Quartet - Berliner Jazztage</title>
-    <credits>
-      <director>Sigrid Schröder</director>
-    </credits>
-    <date>1976</date>
-    <category lang="it">concerto jazz</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260317030100 +0100" stop="20260317034500 +0100" channel="MEZZO">
-    <title lang="it">Gil Evans Orchestra e Mccoy Tyner Sextet - Berliner Jazztage</title>
-    <credits>
-      <director>Oskar Krüger</director>
-    </credits>
-    <date>1976</date>
-    <category lang="it">concerto jazz</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260317034500 +0100" stop="20260317042600 +0100" channel="MEZZO">
-    <title lang="it">Oregon - Jazztage berlinese</title>
-    <credits>
-      <director>Dieter Krause</director>
-    </credits>
-    <date>1980</date>
-    <category lang="it">concerto jazz</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260317042600 +0100" stop="20260317050900 +0100" channel="MEZZO">
-    <title lang="it">Jimmy Witherspoon Quartet - Multiplatino</title>
-    <credits>
-      <director>Sandro Pedrazzetti</director>
-    </credits>
-    <date>1985</date>
-    <category lang="it">concerto jazz</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260317050900 +0100" stop="20260317065000 +0100" channel="MEZZO">
-    <title lang="it">Orchestra Sinfonica di Londra, Simon Rattle: Jolas, Messiaen</title>
-    <date>2023</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260317065000 +0100" stop="20260317084100 +0100" channel="MEZZO">
-    <title lang="it">Orchestra Sinfonica di Londra, Simon Rattle: Sibelius, Bruckner</title>
-    <date>2022</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260317084100 +0100" stop="20260317100000 +0100" channel="MEZZO">
-    <title lang="it">Itzhak Perlman, Daniel Barenboim, Dale Clevenger - Brahms: Sonata per violino n. 3, Trio di corni</title>
-    <credits>
-      <director>Janos Darvas</director>
-    </credits>
-    <date>1989</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260317100000 +0100" stop="20260317123000 +0100" channel="MEZZO">
-    <title lang="it">Verdi: Falstaff - Opera di Lille</title>
-    <desc lang="it">Falstaff 'Commedia lirica' in three acts by Giuseppe Verdi (1813-1901) Libretto by Arrigo Boito First performance in Milan, Teatro alla Scala, February 9, 1893 Orchestre National de Lille, Cheur de l'Opéra de Lille Antonello Allemandi (conductor) Denis Podalydes (stage director) Éric Ruf (sets), Christian Lacroix (costumes), Bertrand Couderc (lights) Tassis Christoyannis (Falstaff) Gabrielle Philiponet (Alice Ford) Julie Robard-Gendre (Meg Page) Silvia Beltrami (Mrs Quickly) Clara Guillon (Nannetta) Gezim Myshketa (Ford) Kevin Amiel (Fenton) Luca Lombardo (Dr Caius) Loic Felix (Bardolfo) Damien Pass (Pistola) Laurent Podalydes, Léo Reynaud (actors) Lille, Opera, May 14, 2023.</desc>
-    <date>2023</date>
-    <category lang="it">opera</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028629.jpg" />
-  </programme>
-  <programme start="20260317123000 +0100" stop="20260317140300 +0100" channel="MEZZO">
-    <title lang="it">Martha Argerich, Maria Joao Pires, Orchestre de la Suisse Romande, Daniel Harding: Mozart, Mahler</title>
-    <credits>
-      <director>Andy Sommer</director>
-    </credits>
-    <date>2021</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260317140300 +0100" stop="20260317153500 +0100" channel="MEZZO">
-    <title lang="it">Orchestra Filarmonica di Monaco, Daniel Harding, Leonidas Kavakos: Čajkovskij, Dvorak</title>
-    <date>2022</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260317153500 +0100" stop="20260317162500 +0100" channel="MEZZO">
-    <title lang="it">InterMezzo</title>
-    <category lang="it">programma musicale</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260317162500 +0100" stop="20260317183500 +0100" channel="MEZZO">
-    <title lang="it">Monteverdi da Mantova a Venezia - John Eliot Gardiner</title>
-    <credits>
-      <director>Sébastien Glas</director>
-    </credits>
-    <date>2023</date>
-    <category lang="it">film documentario</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419736.jpg" />
-  </programme>
-  <programme start="20260317183500 +0100" stop="20260317203000 +0100" channel="MEZZO">
-    <title lang="it">John Eliot Gardiner - Monteverdi: Vespro della Beata Vergine - Versailles</title>
-    <credits>
-      <director>Stéphan Aubé</director>
-    </credits>
-    <date>2014</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260317203000 +0100" stop="20260317221600 +0100" channel="MEZZO">
-    <title lang="it">Pite di cristallo: sgomento</title>
-    <desc lang="it">Betroffenheit Crystal Pite (coreografia) Musica di Owen Belton, Alessandro Juliani &amp; Meg Roe Kidd Pivot, Electric Company Theatre Jay Gower Taylor - Scenografia Tom Visser - Luci Nancy Bryant - Costumi Linda Chow - Costumi Nicola Ryall - Costumi Bryan Arias - Ballerino David Raymond - Ballerino Cindy Salgado - Ballerino Jermaine Spivey - Ballerino Tiffany Tregarthen - Ballerino Jonathon Young - Attrice Heidi Wilkinson - Puppets Omanie Elias - Puppets Il tipo di spettacolo che raramente vediamo sul palco del teatro o dell'opera è offerto qui dagli innovativi Crystal Pite e Jonathon Young. In tedesco, "Betroffenheit" denota uno stato di shock e incredulità. Questo insolito balletto è stato ispirato dai terribili eventi della vita del coreografo Young, che perse sua figlia, sua nipote e suo nipote in un terribile incendio durante una vacanza in famiglia. Un mix di tap, salsa, parlato, canzone e spettacolo di marionette, questa commovente affermazione artistica susciterà sicuramente le emozioni con la sua toccante rappresentazione delle difficoltà personali e della lotta per venire a patti con la tragedia, splendidamente realizzata da Kidd Pivot e dall'Electric Company Theatre sul palco del Sadler's Wells Theatre di Londra. Londra, Sadler's Wells Theatre, 2017 Diretto da Jeff Tudor.</desc>
-    <credits>
-      <director>Jeff Tudor</director>
-    </credits>
-    <date>2017</date>
-    <category lang="it">balletto</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419696.jpg" />
-  </programme>
-  <programme start="20260317221600 +0100" stop="20260317234700 +0100" channel="MEZZO">
-    <title lang="it">Orchestra Filarmonica Reale di Liegi, Gergely Madaras: Dvorák, Franck</title>
-    <credits>
-      <director>Frédéric Caillierez</director>
-    </credits>
-    <date>2021</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260317234700 +0100" stop="20260318022400 +0100" channel="MEZZO">
-    <title lang="it">Serse' di Haendel all'Opera di Rouen</title>
-    <desc lang="it">Serse Opera in three acts by Georg Friedrich Handel (1685 - 1759) Libretto by Nicolo Minato and Silvio Stampiglia First performnce in London, King's Theatre, 15 April 1738 Opéra de Rouen Normandie Orchestra, David Bates (Musical direction, harpsichord) Clarac &amp; Deloeuil &gt; The Lab (Stage Direction, sets, costumes) Christophe Pitoiset (Set design collaboration), Lodie Kardouss (Artistic collaboration), Rick Martin (Lights), Julien Roques and Benjamin Juhel (Video), Julien Roques (Graphic design), Luc Bourrousse (Dramaturgy) Jake Arditti (Serse) Jakub Józef Orlinski (Arsamene) Cecilia Molinari (Amastre) Mari Eriksmoen (Romilda) Sophie Junker (Atalanta) Luigi de Donato (Ariodate) Elviro Riccardo (Novaro) Rouen, Théâtre des Arts, March 14, 2023.</desc>
-    <date>2023</date>
-    <category lang="it">opera</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984463.jpg" />
-  </programme>
-  <programme start="20260318022400 +0100" stop="20260318040600 +0100" channel="MEZZO">
-    <title lang="it">Orchestra di Parigi, Esa-Pekka Salonen, Aliisa Neige Barriere: Saariaho, Sibelius, Lindberg</title>
-    <date>2024</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260318040600 +0100" stop="20260318052600 +0100" channel="MEZZO">
-    <title lang="it">Claudio Abbado, Filarmonica di Berlino: Brahms</title>
-    <credits>
-      <director>Bob Coles</director>
-    </credits>
-    <date>1997</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260318052600 +0100" stop="20260318082400 +0100" channel="MEZZO">
-    <title lang="it">Le nozze di Figaro by Mozart at the Salzburg Festival</title>
-    <desc lang="it">Le nozze di Figaro 'Opera buffa' in four acts by Wolfgang Amadeus Mozart (1756 - 1791) Libretto by Lorenzo Da Ponte based on 'La folle journée, ou le Mariage de Figaro' by Pierre-Augustin Caron de Beaumarchais First performance in Vienna, Burgtheater, 1 May 1786 Vienna Philharmonic Orchestra, Raphaël Pichon (Conductor) Martin Kusej (Stage director) Raimund Orfeo Voigt (Set designer), Alan Hranitelj (Costume designer), Friedrich Rom (Lighting designer) Krzysztof Bączyk (Figaro) Sabine Devieilhe (Susanna) Andre Schuen (Il Conte di Almaviva) Adriana González (La Contessa di Almaviva) Léa Desandre (Cherubino) Peter Kálmán (Bartolo) Kristina Hammarström (Marcellina) Manuel Günther (Basilio) Serafina Starke (Barbarina) Rafał Pawnuk (Antonio) Andrew Morstein (Don Curzio) Salzburg Festival, 27 July 2023.</desc>
-    <date>2023</date>
-    <category lang="it">opera</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984463.jpg" />
-  </programme>
-  <programme start="20260318082400 +0100" stop="20260318084700 +0100" channel="MEZZO">
-    <title lang="it">Wenzel Fuchs, Elena Bashkirova - Brahms: Sonata per clarinetto e pianoforte n.2</title>
-    <credits>
-      <director>Jean-Claude Piroué</director>
-    </credits>
-    <date>1996</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260318084700 +0100" stop="20260318091200 +0100" channel="MEZZO">
-    <title lang="it">Wenzel Fuchs, Elena Bashkirova - Brahms: Sonata per clarinetto n. 1</title>
-    <credits>
-      <director>Jean-Claude Piroué</director>
-    </credits>
-    <date>1996</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260318091200 +0100" stop="20260318100000 +0100" channel="MEZZO">
-    <title lang="it">InterMezzo</title>
-    <category lang="it">programma musicale</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260318100000 +0100" stop="20260318101100 +0100" channel="MEZZO">
-    <title lang="it">Steinway &amp; Figli</title>
-    <desc lang="it">Vai dietro le quinte della fabbrica Steinway &amp; Sons e scopri Spirio, l'incredibile tecnologia che consente a un pianoforte di riprodurre un'esecuzione esattamente come se fosse stata suonata dal vivo. Il signor Guido Zimmermann, presidente dell'azienda di pianoforti di fama mondiale, ci parla del concetto rivoluzionario, accompagnato da immagini della precisa e affascinante lavorazione e ingegneria che caratterizza ciascuno dei pianoforti Spirio. Il documentario di Hugo Cohen Sprung ci permette anche di approfondire l'esperienza del pianista francese e artista Steinway Bertrand Chamayou con la tecnologia e presenta un'anteprima del suo esclusivo concerto a due pianoforti in cui si esibisce con la sua "ombra".</desc>
-    <date>2025</date>
-    <category lang="it">film documentario</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419736.jpg" />
-  </programme>
-  <programme start="20260318101100 +0100" stop="20260318120500 +0100" channel="MEZZO">
-    <title lang="it">Orchestra di Parigi, Khatia Buniatishvili, Klaus Mäkelä: Falla, Čajkovskij, Debussy, Ravel</title>
-    <credits>
-      <director>Isabelle Soulard</director>
-    </credits>
-    <date>2022</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260318120500 +0100" stop="20260318125000 +0100" channel="MEZZO">
-    <title lang="it">Jean-Yves Thibaudet, San Francisco Symphony Orchestra, Esa-Pekka Salonen: Scriabin - Prometeo</title>
-    <desc lang="it">Orchestra Sinfonica di San Francisco, Esa-Pekka Salonen (direttore d'orchestra) Jean-Yves Thibaudet (pianoforte) Mathilde Laurent (profumo) Alexander Scriabin 1872 - 1915 Prometeo, il poema del fuoco Il poema sinfonico di Alexander Scriabin "Prometeo, il poema del fuoco" celebra la sinestesia e l'unità cosmica. Ideata dal direttore musicale della San Francisco Symphony Esa-Pekka Salonen, dal pianista Jean-Yves Thibaudet e dalla profumiera interna di Cartier Mathilde Laurent, la San Francisco Symphony e Cartier presentano una produzione multisensoriale di "Prometheus". Questa prima mondiale collaborativa combina performance musicali e luminose dinamiche con cura olfattiva, coinvolgendo il pubblico nella visione creativa di Skrjabin più di un secolo dopo la composizione dell'opera d'arte totale. Diretto da Sébastien Glas San Francisco, Davies Symphony Hall, 3 marzo 2024.</desc>
-    <credits>
-      <director>Sébastien Glas</director>
-    </credits>
-    <date>2024</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260318125000 +0100" stop="20260318133000 +0100" channel="MEZZO">
-    <title lang="it">InterMezzo</title>
-    <category lang="it">programma musicale</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260318133000 +0100" stop="20260318145600 +0100" channel="MEZZO">
-    <title lang="it">Scott Ross - Tracce di una stella cadente 1951 - 1989</title>
-    <desc lang="it">Scott Ross - Traces of a Shooting Star 1951 - 1989 Scott on the Ross, about the recording of the 555 sonatas of Domenico Scarlatti Villeneuve lez Avignon, Tinel, April 1985 Produced by Bernard Tournois and Martina Catella Les maîtres de musique - Works by Domenico Scarlatti and Padre Antonio Soler Domenico Scarlatti 1685 - 1757 Sonata in D minor K 1 Sonata in A major K 6 Sonata in F sharp minor K 25 Sonata in B minor K 27 Sonata in E major K 380 Sonata in E major K 381 Sonata in A major K 208 Sonata in A major K 209 Antonio Soler 1729 - 1783 2 sonatas in D minor R 49 &amp; R 15 2 sonatas in F major R 56 &amp; R 69 Fandango R 146 Paris, Théâtre du Ranelagh, May 7, 1988 Directed by Georges Bessonnet Digital restoration 2024.</desc>
-    <credits>
-      <director>Bernard Tournois</director>
-      <director>Martina Catella</director>
-      <director>Georges Bessonnet</director>
-    </credits>
-    <date>2024</date>
-    <category lang="it">film documentario</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984459.jpg" />
-  </programme>
-  <programme start="20260318145600 +0100" stop="20260318164700 +0100" channel="MEZZO">
-    <title lang="it">John Eliot Gardiner dirige la Messa di Bach in si minore</title>
-    <date>2023</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260318164700 +0100" stop="20260318172500 +0100" channel="MEZZO">
-    <title lang="it">InterMezzo</title>
-    <category lang="it">programma musicale</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419708.jpg" />
-  </programme>
-  <programme start="20260318172500 +0100" stop="20260318185100 +0100" channel="MEZZO">
-    <title lang="it">Rafael Payare, Orchestra Sinfonica di Montreal: Ravel, Shostakovich</title>
-    <credits>
-      <director>Claudine Gamache</director>
-    </credits>
-    <date>2021</date>
-    <category lang="it">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260318185100 +0100" stop="20260318203000 +0100" channel="MEZZO">
-    <title lang="it">La Grande Danza - Aterballetto in Milan</title>
-    <desc lang="it">La grande danza - Aterballetto a Milano Coreografie di Jirí Pokorny (Parole e Spazio), Giuseppe Spota (Narciso), Philippe Kratz (Phoenix) Aterballetto è la principale compagnia di danza produttrice e itinerante in Italia. Sono famosi per la loro capacità di spostare il loro stile attraverso una vasta gamma di generi musicali, dalla classica al pop e al jazz. "Parole e spazio" di Jirí Pokorny è una metafora di un discorso intrapersonale, un libro pieno di storie fluttuanti. È personale, intimo e molto poetico. 'Phoenix' si ispira all'idea del movimento circolare infinito della vita: nascita, crescita, immobilità, morte e infine ancora una volta nascita. Il coreografo Philippe Kratz cerca di capire chi eravamo e cosa siamo capaci di diventare. In 'Narciso' Giuseppe Spota getta uno sguardo sui giovani di oggi. Sono pronti a uscire dalle loro cornici virtuali e ad affrontare lo specchio della vita quotidiana? O finiranno tutti come Narciso, soli ad ammirare e ad amare se stessi? Diretto da Andreas Morell.</desc>
-    <credits>
-      <director>Andreas Morell</director>
-    </credits>
-    <date>2017</date>
-    <category lang="it">balletto</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028531.jpg" />
-  </programme>
-  <programme start="20260318203000 +0100" stop="20260318234800 +0100" channel="MEZZO">
-    <title lang="it">Sartorio: L'Orfeo - Philippe Jaroussky - Opéra de Montpellier</title>
-    <desc lang="it">L'Orfeo 'Dramma per musica' by Antonio Sartorio (1630 - 1680) Libretto by Aurelio Aureli First performance in Venice, Teatro Vendramino di San Salvatore, December 14, 1672 Ensemble Artaserse, Philippe Jaroussky (musical direction) Benjamin Lazar (stage director) Adeline Caron (sets), Alain Blanchot (costumes), Philippe Gladieux (lights), Mathilde Benmoussa (make-up, hairstyles) Arianna Vendittelli (Orfeo) Alicia Amo (Euridice) Kangmin Justin Kim (Aristeo) Zachary Wilder (Erinda) Maya Kherani (Autonoe) David Webb (Ercole) Yannis Francois (Chirone / Bacco) Paul Figuier (Achille) Renato Dolcini (Asculapio / Pluto) Gaia Petrone (Orillo) Chloé Scalese, Gabriel Avila Quintana, Théo Pendle (dancers) Montpellier, Opéra-Comédie, June 10, 2023.</desc>
-    <date>2023</date>
-    <category lang="it">opera</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984463.jpg" />
-  </programme>
-  <programme start="20260318234800 +0100" stop="20260319010500 +0100" channel="MEZZO">
-    <title lang="it">Robin McKelle: un omaggio a Ella Fitzgerald</title>
-    <credits>
-      <director>Sebastien Berge</director>
-    </credits>
-    <date>2024</date>
-    <category lang="it">concerto jazz</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260313001500 +0000" stop="20260313004500 +0000" channel="Sky Sports F1">
-    <title lang="it">Paddock F1 non tagliato: Cina</title>
-    <sub-title lang="it">E21</sub-title>
-    <desc lang="it">Unisciti alle voci principali di Sky F1 mentre analizzano e discutono le storie più importanti emerse dalla giornata dei media in vista del Gran Premio della Cina.</desc>
-  </programme>
-  <programme start="20260313004500 +0000" stop="20260313005500 +0000" channel="Sky Sports F1">
-    <title lang="it">Kimi e Ted</title>
-    <desc lang="it">Il pilota della Mercedes Kimi Antonelli si incontra con Ted Kravitz di Sky F1.</desc>
-  </programme>
-  <programme start="20260313005500 +0000" stop="20260313010500 +0000" channel="Sky Sports F1">
-    <title lang="it">Martin Brundle e l'elicottero della F1</title>
-    <desc lang="it">Martin Brundle di Sky F1 va dietro le quinte con l'elicottero di Formula 1.</desc>
-  </programme>
-  <programme start="20260313010500 +0000" stop="20260313020000 +0000" channel="Sky Sports F1">
-    <title lang="it">DAL VIVO: F1 Academy: pratica</title>
-    <sub-title lang="it">E1</sub-title>
-    <desc lang="it">La F1 Academy ritorna per la quarta stagione mentre il gruppo tutto femminile inizia i preparativi con le prove libere sul Circuito Internazionale di Shanghai. Doriane Pin ha vinto il campionato 2025.</desc>
-  </programme>
-  <programme start="20260313020000 +0000" stop="20260313020500 +0000" channel="Sky Sports F1">
-    <title lang="it">Formula Uno Varie</title>
-    <sub-title lang="it">E27</sub-title>
-    <desc lang="it">Ted Kravitz si unisce al campione del mondo del 1997 Jacques Villeneuve per l'ultima puntata della serie F1 Explainer per discutere degli stili di guida della Formula 1.</desc>
-  </programme>
-  <programme start="20260313020500 +0000" stop="20260313021500 +0000" channel="Sky Sports F1">
-    <title lang="it">Williams F1 Angeli Blu</title>
-    <desc lang="it">Il direttore del team Williams F1 James Vowles e il pilota Alex Albon prendono il volo con i Blue Angels della Marina degli Stati Uniti.</desc>
-  </programme>
-  <programme start="20260313021500 +0000" stop="20260313023000 +0000" channel="Sky Sports F1">
-    <title lang="it">Lando Norris IV</title>
-    <desc lang="it">Un servizio di Sky Sports F1 incentrato sul campione del mondo di Formula 1 del 2025 Lando Norris.</desc>
-  </programme>
-  <programme start="20260313023000 +0000" stop="20260313030000 +0000" channel="Sky Sports F1">
-    <title lang="it">Paddock F1 non tagliato: Cina</title>
-    <sub-title lang="it">E21</sub-title>
-    <desc lang="it">Unisciti alle voci principali di Sky F1 mentre analizzano e discutono le storie più importanti emerse dalla giornata dei media in vista del Gran Premio della Cina.</desc>
-  </programme>
-  <programme start="20260313030000 +0000" stop="20260313044500 +0000" channel="Sky Sports F1">
-    <title lang="it">LIVE: GP F1 cinese: prove libere 1</title>
-    <sub-title lang="it">E0</sub-title>
-    <desc lang="it">Il semaforo si accende per l'unica ora di prove libere mentre il Circuito Internazionale di Shanghai prepara la scena per il primo weekend Sprint di Formula 1 della stagione.</desc>
-  </programme>
-  <programme start="20260313044500 +0000" stop="20260313051500 +0000" channel="Sky Sports F1">
-    <title lang="it">Paddock F1 non tagliato: Cina</title>
-    <sub-title lang="it">E21</sub-title>
-    <desc lang="it">Unisciti alle voci principali di Sky F1 mentre analizzano e discutono le storie più importanti emerse dalla giornata dei media in vista del Gran Premio della Cina.</desc>
-  </programme>
-  <programme start="20260313051500 +0000" stop="20260313053000 +0000" channel="Sky Sports F1">
-    <title lang="it">Lando Norris IV</title>
-    <desc lang="it">Un servizio di Sky Sports F1 incentrato sul campione del mondo di Formula 1 del 2025 Lando Norris.</desc>
-  </programme>
-  <programme start="20260313053000 +0000" stop="20260313060000 +0000" channel="Sky Sports F1">
-    <title lang="it">LIVE: Conferenza Stampa dei Team Principal</title>
-    <sub-title lang="it">E298</sub-title>
-    <desc lang="it">I capi dei team di Formula 1 si siedono per rispondere alle domande dei media in vista del Gran Premio della Cina.</desc>
-  </programme>
-  <programme start="20260313060000 +0000" stop="20260313064500 +0000" channel="Sky Sports F1">
-    <title lang="it">LIVE: F1 Academy: qualifiche</title>
-    <sub-title lang="it">E2</sub-title>
-    <desc lang="it">Il campo della F1 Academy si prepara per le qualifiche a Shanghai. Il giro più veloce di ogni pilota determina la griglia per Gara due, mentre l'ordine per Gara uno è determinato invertendo i primi otto.</desc>
-  </programme>
-  <programme start="20260313064500 +0000" stop="20260313090000 +0000" channel="Sky Sports F1">
-    <title lang="it">LIVE: GP F1 Cinese: Qualifiche Sprint</title>
-    <sub-title lang="it">E0</sub-title>
-    <desc lang="it">Il Gran Premio della Cina mette in scena la sessione di qualifiche Sprint di apertura del 2026 mentre le posizioni in griglia vengono fissate per la Sprint Race di sabato alle 3:00, dove il pilota più veloce qui conquisterà la pole.</desc>
-  </programme>
-  <programme start="20260313090000 +0000" stop="20260313101500 +0000" channel="Sky Sports F1">
-    <title lang="it">GP F1 cinese: prove libere 1</title>
-    <sub-title lang="it">E48</sub-title>
-    <desc lang="it">Il semaforo si accende per l'unica ora di prove libere mentre il Circuito Internazionale di Shanghai prepara la scena per il primo weekend Sprint di Formula 1 della stagione. (13.03).</desc>
-  </programme>
-  <programme start="20260313101500 +0000" stop="20260313111500 +0000" channel="Sky Sports F1">
-    <title lang="it">GP Cina F1: Qualifiche Sprint</title>
-    <sub-title lang="it">E49</sub-title>
-    <desc lang="it">Il Gran Premio della Cina mette in scena la sessione di qualifiche Sprint di apertura del 2026 mentre le posizioni in griglia vengono fissate per la Sprint Race di sabato alle 3:00, dove il pilota più veloce qui conquisterà la pole. (13.03).</desc>
-  </programme>
-  <programme start="20260313111500 +0000" stop="20260313113000 +0000" channel="Sky Sports F1">
-    <title lang="it">Oscar Piastri IV</title>
-    <desc lang="it">Uno sguardo al giovane pilota australiano della McLaren Oscar Piastri, che ha spinto il compagno di squadra Lando Norris fino alla fine nella corsa per il campionato 2025.</desc>
-  </programme>
-  <programme start="20260313113000 +0000" stop="20260313123000 +0000" channel="Sky Sports F1">
-    <title lang="it">Momenti salienti del GP d'Australia di F1</title>
-    <sub-title lang="it">E140</sub-title>
-    <desc lang="it">Luci spente all'Albert Park per il Gran Premio d'Australia di apertura della stagione. Lando Norris ha ottenuto la vittoria della gara lo scorso anno, la prima della sua stagione da vincitore del campionato del mondo. (08.03).</desc>
-  </programme>
-  <programme start="20260313123000 +0000" stop="20260313134500 +0000" channel="Sky Sports F1">
-    <title lang="it">GP F1 cinese: prove libere 1</title>
-    <sub-title lang="it">E48</sub-title>
-    <desc lang="it">Il semaforo si accende per l'unica ora di prove libere mentre il Circuito Internazionale di Shanghai prepara la scena per il primo weekend Sprint di Formula 1 della stagione. (13.03).</desc>
-  </programme>
-  <programme start="20260313134500 +0000" stop="20260313143000 +0000" channel="Sky Sports F1">
-    <title lang="it">F1 Academy: qualifiche</title>
-    <sub-title lang="it">E2</sub-title>
-    <desc lang="it">Il campo della F1 Academy si prepara per le qualifiche a Shanghai. Il giro più veloce di ogni pilota determina la griglia per Gara due, mentre l'ordine per Gara uno è determinato invertendo i primi otto.</desc>
-  </programme>
-  <programme start="20260313143000 +0000" stop="20260313153000 +0000" channel="Sky Sports F1">
-    <title lang="it">GP Cina F1: Qualifiche Sprint</title>
-    <sub-title lang="it">E49</sub-title>
-    <desc lang="it">Il Gran Premio della Cina mette in scena la sessione di qualifiche Sprint di apertura del 2026 mentre le posizioni in griglia vengono fissate per la Sprint Race di sabato alle 3:00, dove il pilota più veloce qui conquisterà la pole. (13.03).</desc>
-  </programme>
-  <programme start="20260313153000 +0000" stop="20260313154500 +0000" channel="Sky Sports F1">
-    <title lang="it">Brad Pitt x McLaren</title>
-    <desc lang="it">Scopri le interazioni della star di F1 The Movie Brad Pitt con la McLaren.</desc>
-  </programme>
-  <programme start="20260313154500 +0000" stop="20260313164500 +0000" channel="Sky Sports F1">
-    <title lang="it">Momenti salienti del GP d'Australia di F1</title>
-    <sub-title lang="it">E140</sub-title>
-    <desc lang="it">Luci spente all'Albert Park per il Gran Premio d'Australia di apertura della stagione. Lando Norris ha ottenuto la vittoria della gara lo scorso anno, la prima della sua stagione da vincitore del campionato del mondo. (08.03).</desc>
-  </programme>
-  <programme start="20260313164500 +0000" stop="20260313180000 +0000" channel="Sky Sports F1">
-    <title lang="it">GP F1 cinese: prove libere 1</title>
-    <sub-title lang="it">E48</sub-title>
-    <desc lang="it">Il semaforo si accende per l'unica ora di prove libere mentre il Circuito Internazionale di Shanghai prepara la scena per il primo weekend Sprint di Formula 1 della stagione. (13.03).</desc>
-  </programme>
-  <programme start="20260313180000 +0000" stop="20260313190000 +0000" channel="Sky Sports F1">
-    <title lang="it">GP Cina F1: Qualifiche Sprint</title>
-    <sub-title lang="it">E49</sub-title>
-    <desc lang="it">Il Gran Premio della Cina mette in scena la sessione di qualifiche Sprint di apertura del 2026 mentre le posizioni in griglia vengono fissate per la Sprint Race di sabato alle 3:00, dove il pilota più veloce qui conquisterà la pole. (13.03).</desc>
-  </programme>
-  <programme start="20260313190000 +0000" stop="20260313200000 +0000" channel="Sky Sports F1">
-    <title lang="it">Momenti salienti dell'IndyCar</title>
-    <sub-title lang="it">E10</sub-title>
-    <desc lang="it">È il giorno della gara della NTT IndyCar Series al Phoenix Raceway con lo schieramento di piloti del 2026 sulla griglia per l'inizio del Good Ranchers 250. (07.03).</desc>
-  </programme>
-  <programme start="20260313200000 +0000" stop="20260313213000 +0000" channel="Sky Sports F1">
-    <title lang="it">LIVE: Indycar Series: prove libere 1</title>
-    <sub-title lang="it">E11</sub-title>
-    <desc lang="it">La NTT IndyCar Series si dirige in Texas per la terza gara della stagione 2026 mentre i preparativi iniziano sulle strade di Arlington con le prove.</desc>
-  </programme>
-  <programme start="20260313213000 +0000" stop="20260313223000 +0000" channel="Sky Sports F1">
-    <title lang="it">GP Cina F1: Qualifiche Sprint</title>
-    <sub-title lang="it">E49</sub-title>
-    <desc lang="it">Il Gran Premio della Cina mette in scena la sessione di qualifiche Sprint di apertura del 2026 mentre le posizioni in griglia vengono fissate per la Sprint Race di sabato alle 3:00, dove il pilota più veloce qui conquisterà la pole. (13.03).</desc>
-  </programme>
-  <programme start="20260313223000 +0000" stop="20260313225000 +0000" channel="Sky Sports F1">
-    <title lang="it">Novità: Inseguendo il sogno</title>
-    <sub-title lang="it">E2</sub-title>
-    <desc lang="it">In questa serie avvincente, vai dietro le quinte della Formula 2. Ecco uno sguardo alla gara di apertura della stagione sul circuito dell'Albert Park a Melbourne, in Australia.</desc>
-  </programme>
-  <programme start="20260313225000 +0000" stop="20260313230000 +0000" channel="Sky Sports F1">
-    <title lang="it">Kimi e Ted</title>
-    <desc lang="it">Il pilota della Mercedes Kimi Antonelli si incontra con Ted Kravitz di Sky F1.</desc>
-  </programme>
-  <programme start="20260313230000 +0000" stop="20260314000000 +0000" channel="Sky Sports F1">
-    <title lang="it">Momenti salienti del GP d'Australia di F1</title>
-    <sub-title lang="it">E140</sub-title>
-    <desc lang="it">Luci spente per il Gran Premio d'Australia di apertura della stagione. George Russell guida una Mercedes in prima fila con Isack Hadjar della Red Bull terzo. Lando Norris parte dalla sesta posizione. (08.03).</desc>
-  </programme>
   <programme start="20260314000000 +0000" stop="20260314011500 +0000" channel="Sky Sports F1">
     <title lang="it">GP F1 cinese: prove libere 1</title>
     <sub-title lang="it">E48</sub-title>
-    <desc lang="it">Il semaforo si accende per l'unica ora di prove libere mentre il Circuito Internazionale di Shanghai prepara la scena per il primo weekend Sprint di Formula 1 della stagione. (13.03).</desc>
+    <desc lang="it">Il semaforo si accende verde per l'unica ora di prove libere mentre il Circuito Internazionale di Shanghai prepara la scena per il primo weekend Sprint di Formula 1 della stagione. (13.03).</desc>
   </programme>
   <programme start="20260314011500 +0000" stop="20260314021500 +0000" channel="Sky Sports F1">
     <title lang="it">GP Cina F1: Qualifiche Sprint</title>
     <sub-title lang="it">E49</sub-title>
-    <desc lang="it">Il Gran Premio della Cina mette in scena la sessione di qualifiche Sprint di apertura del 2026 mentre le posizioni in griglia vengono fissate per la Sprint Race di sabato alle 3:00, dove il pilota più veloce qui conquisterà la pole. (13.03).</desc>
+    <desc lang="it">Il Gran Premio della Cina mette in scena la sessione di qualificazione Sprint di apertura del 2026 mentre le posizioni in griglia vengono fissate per la Sprint Race di sabato alle 3:00, dove il pilota più veloce qui conquisterà la pole. (13.03).</desc>
   </programme>
   <programme start="20260314021500 +0000" stop="20260314022500 +0000" channel="Sky Sports F1">
     <title lang="it">Pedalare per lavorare con Leclerc</title>
@@ -1078,7 +63,7 @@
     <desc lang="it">La griglia del Gran Premio della Cina è impostata con le qualifiche della Formula 1, mentre i piloti cercano di lottare per raggiungere la Q3 per un colpo alla pole position.</desc>
   </programme>
   <programme start="20260314090000 +0000" stop="20260314093000 +0000" channel="Sky Sports F1">
-    <title lang="it">LIVE: Ted's Quali Notebook: Cina</title>
+    <title lang="it">LIVE: Taccuino Quali di Ted: Cina</title>
     <sub-title lang="it">E245</sub-title>
     <desc lang="it">Ted Kravitz è in diretta mentre raccoglie le reazioni dall'interno del paddock e ripercorre tutte le storie più importanti delle qualifiche del Gran Premio della Cina a Shanghai.</desc>
   </programme>
@@ -1310,7 +295,7 @@
     <desc lang="it">Una carrellata delle storie e degli approfondimenti più importanti di questo sport con i presentatori della Formula 1 di Sky.</desc>
   </programme>
   <programme start="20260316060000 +0000" stop="20260316072500 +0000" channel="Sky Sports F1">
-    <title lang="it">E32</title>
+    <title lang="it">Domenica del Gran Premio: Cina</title>
     <sub-title lang="it">E0</sub-title>
     <desc lang="it">Unisciti a Sky Sports F1 sulla griglia prima dell'inizio della gara del Gran Premio della Cina sul Circuito Internazionale di Shanghai.</desc>
   </programme>
@@ -1349,12 +334,12 @@
   <programme start="20260316120000 +0000" stop="20260316131500 +0000" channel="Sky Sports F1">
     <title lang="it">GP F1 cinese: prove libere 1</title>
     <sub-title lang="it">E48</sub-title>
-    <desc lang="it">Il semaforo si accende verde per l'unica ora di prove libere mentre Shanghai prepara la scena per il primo weekend Sprint della stagione. La Mercedes ha dato il via alla nuova era della F1 con una doppietta. (13.03).</desc>
+    <desc lang="it">Il semaforo si accende verde per l'unica ora di prove mentre Shanghai prepara la scena per il primo fine settimana Sprint della stagione. La Mercedes ha dato il via alla nuova era della F1 con una doppietta. (13.03).</desc>
   </programme>
   <programme start="20260316131500 +0000" stop="20260316141500 +0000" channel="Sky Sports F1">
     <title lang="it">GP Cina F1: Qualifiche Sprint</title>
     <sub-title lang="it">E49</sub-title>
-    <desc lang="it">Il Gran Premio della Cina mette in scena la sessione di qualifiche Sprint di apertura del 2026 mentre le posizioni in griglia vengono fissate per la Sprint Race di sabato alle 3:00, dove il pilota più veloce qui conquisterà la pole. (13.03).</desc>
+    <desc lang="it">Il Gran Premio della Cina mette in scena la sessione di qualificazione Sprint di apertura del 2026 mentre le posizioni in griglia vengono fissate per la Sprint Race di sabato alle 3:00, dove il pilota più veloce qui conquisterà la pole. (13.03).</desc>
   </programme>
   <programme start="20260316141500 +0000" stop="20260316143000 +0000" channel="Sky Sports F1">
     <title lang="it">Brad Pitt x McLaren</title>
@@ -1472,7 +457,7 @@
     <desc lang="it">Ted Kravitz è in diretta mentre raccoglie le reazioni dall'interno del paddock e ripercorre tutte le storie più importanti delle qualifiche del Gran Premio della Cina a Shanghai.</desc>
   </programme>
   <programme start="20260317140000 +0000" stop="20260317152500 +0000" channel="Sky Sports F1">
-    <title lang="it">E32</title>
+    <title lang="it">Domenica del Gran Premio: Cina</title>
     <sub-title lang="it">E0</sub-title>
     <desc lang="it">Unisciti a Sky Sports F1 sulla griglia prima dell'inizio della gara del Gran Premio della Cina sul Circuito Internazionale di Shanghai.</desc>
   </programme>
@@ -1516,80 +501,109 @@
     <sub-title lang="it">E15</sub-title>
     <desc lang="it">È il giorno della gara della NTT IndyCar Series mentre inizia il Gran Premio di Arlington. (15.03).</desc>
   </programme>
-  <programme start="20260313000000 +0000" stop="20260313040000 +0000" channel="Sky Sports Tennis">
-    <title lang="it">In diretta: QF ATP/WTA Indian Wells</title>
-    <sub-title lang="it">E22</sub-title>
-    <desc lang="it">Goditi l'azione dal vivo dei tour ATP e WTA.</desc>
+  <programme start="20260318000000 +0000" stop="20260318010000 +0000" channel="Sky Sports F1">
+    <title lang="it">Il meglio di Sky Sports F1 2025</title>
+    <desc lang="it">Una carrellata delle storie e degli approfondimenti più importanti di questo sport con i presentatori della Formula 1 di Sky.</desc>
   </programme>
-  <programme start="20260313040000 +0000" stop="20260313041500 +0000" channel="Sky Sports Tennis">
-    <title lang="it">Finale ATP: Parigi</title>
+  <programme start="20260318010000 +0000" stop="20260318020000 +0000" channel="Sky Sports F1">
+    <title lang="it">Il meglio di Sky Sports F1 2025</title>
+    <desc lang="it">Una carrellata delle storie e degli approfondimenti più importanti di questo sport con i presentatori della Formula 1 di Sky.</desc>
+  </programme>
+  <programme start="20260318020000 +0000" stop="20260318030000 +0000" channel="Sky Sports F1">
+    <title lang="it">Il meglio di Sky Sports F1 2025</title>
+    <desc lang="it">Una carrellata delle storie e degli approfondimenti più importanti di questo sport con i presentatori della Formula 1 di Sky.</desc>
+  </programme>
+  <programme start="20260318030000 +0000" stop="20260318040000 +0000" channel="Sky Sports F1">
+    <title lang="it">Il meglio di Sky Sports F1 2025</title>
+    <desc lang="it">Una carrellata delle storie e degli approfondimenti più importanti di questo sport con i presentatori della Formula 1 di Sky.</desc>
+  </programme>
+  <programme start="20260318040000 +0000" stop="20260318050000 +0000" channel="Sky Sports F1">
+    <title lang="it">Il meglio di Sky Sports F1 2025</title>
+    <desc lang="it">Una carrellata delle storie e degli approfondimenti più importanti di questo sport con i presentatori della Formula 1 di Sky.</desc>
+  </programme>
+  <programme start="20260318050000 +0000" stop="20260318060000 +0000" channel="Sky Sports F1">
+    <title lang="it">Il meglio di Sky Sports F1 2025</title>
+    <desc lang="it">Una carrellata delle storie e degli approfondimenti più importanti di questo sport con i presentatori della Formula 1 di Sky.</desc>
+  </programme>
+  <programme start="20260318060000 +0000" stop="20260318070000 +0000" channel="Sky Sports F1">
+    <title lang="it">Il meglio della F1 2014</title>
     <sub-title lang="it">E63</sub-title>
-    <desc lang="it">Un campione di fine anno viene incoronato nella capitale francese al Rolex Paris Masters. (02.11).</desc>
+    <desc lang="it">Il Gran Premio del Canada dal Circuito Gilles-Villeneuve. Nico Rosberg parte in pole position con il compagno di squadra della Mercedes Lewis Hamilton che lo raggiunge in prima fila sulla griglia.</desc>
   </programme>
-  <programme start="20260313041500 +0000" stop="20260313043000 +0000" channel="Sky Sports Tennis">
-    <title lang="it">Finale WTA: Dubai</title>
-    <sub-title lang="it">E30</sub-title>
-    <desc lang="it">A Dubai viene incoronata la campionessa del singolare femminile. Mirra Andreeva, la più giovane finalista WTA di sempre, e la danese Clara Tauson si affrontano per la gloria. (22.02).</desc>
+  <programme start="20260318070000 +0000" stop="20260318080000 +0000" channel="Sky Sports F1">
+    <title lang="it">Il meglio della F1 2014</title>
+    <sub-title lang="it">E64</sub-title>
+    <desc lang="it">Il Gran Premio d'Austria 2014 dal Red Bull Ring. Felipe Massa parte dalla pole davanti al compagno di squadra della Williams Valtteri Bottas e al pilota della Mercedes Nico Rosberg.</desc>
   </programme>
-  <programme start="20260313043000 +0000" stop="20260313044500 +0000" channel="Sky Sports Tennis">
-    <title lang="it">Finali ATP: Finale di Torino</title>
-    <sub-title lang="it">E65</sub-title>
-    <desc lang="it">Il numero uno al mondo Carlos Alcaraz affronta il campione italiano in carica delle ATP Finals Jannik Sinner nel sesto incontro dell'anno, che segna il finale della stagione del Tour 2025 a Torino. (16.11).</desc>
+  <programme start="20260318080000 +0000" stop="20260318090000 +0000" channel="Sky Sports F1">
+    <title lang="it">Il meglio della F1 2014</title>
+    <sub-title lang="it">E72</sub-title>
+    <desc lang="it">Il Gran Premio di Gran Bretagna 2014 da Silverstone. Nico Rosberg della Mercedes parte in pole position, seguito da Sebastian Vettel della Red Bull in prima fila sulla griglia.</desc>
   </programme>
-  <programme start="20260313044500 +0000" stop="20260313050000 +0000" channel="Sky Sports Tennis">
-    <title lang="it">Finale WTA: Indian Wells</title>
-    <sub-title lang="it">E31</sub-title>
-    <desc lang="it">Mirra Andreeva incontra la testa di serie Aryna Sabalenka nella finale di Indian Wells. Sabalenka ha vendicato la sconfitta agli Australian Open contro il Keys in semifinale, mentre Andreeva ha detronizzato Swiatek. (16.03).</desc>
+  <programme start="20260318090000 +0000" stop="20260318100000 +0000" channel="Sky Sports F1">
+    <title lang="it">Il meglio della F1 2014</title>
+    <sub-title lang="it">E80</sub-title>
+    <desc lang="it">Il Gran Premio di Germania 2014 dall'Hockenheimring. Il favorito di casa Nico Rosberg parte in pole position con Valtteri Bottas che completa la prima fila della griglia.</desc>
   </programme>
-  <programme start="20260313050000 +0000" stop="20260313060000 +0000" channel="Sky Sports Tennis">
-    <title lang="it">Partite classiche dell'ATP/WTA Tour</title>
-    <sub-title lang="it">E7</sub-title>
-    <desc lang="it">Risparmiando quattro match point, Roger Federer è stato spinto al limite nella semifinale delle ATP Finals 2014 con la superstar svizzera Stan Wawrinka.</desc>
+  <programme start="20260318100000 +0000" stop="20260318110000 +0000" channel="Sky Sports F1">
+    <title lang="it">Momenti salienti dell'IndyCar</title>
+    <sub-title lang="it">E15</sub-title>
+    <desc lang="it">È il giorno della gara della NTT IndyCar Series mentre inizia il Gran Premio di Arlington. (15.03).</desc>
   </programme>
-  <programme start="20260313060000 +0000" stop="20260313070000 +0000" channel="Sky Sports Tennis">
-    <title lang="it">Finale WTA: Dubai</title>
-    <sub-title lang="it">E10</sub-title>
-    <desc lang="it">Incontrandosi per la prima volta in una finale, le 31enni Jessica Pegula ed Elina Svitolina si contendono la corona di Dubai. Svitolina punta a porre fine ad un'attesa di otto anni per il suo terzo titolo qui. (21.02).</desc>
+  <programme start="20260318110000 +0000" stop="20260318120000 +0000" channel="Sky Sports F1">
+    <title lang="it">Momenti salienti del GP di F1 cinese</title>
+    <sub-title lang="it">E141</sub-title>
+    <desc lang="it">Luci spente sul Circuito Internazionale di Shanghai per il Gran Premio della Cina 2026. Oscar Piastri è passato dalla pole qui la scorsa stagione, battendo Lando Norris e George Russell al primo posto. (15.03).</desc>
   </programme>
-  <programme start="20260313070000 +0000" stop="20260313090000 +0000" channel="Sky Sports Tennis">
-    <title lang="it">Punti salienti del tennis</title>
-    <sub-title lang="it">E9</sub-title>
-    <desc lang="it">Rivivi una partita eccezionale di ieri nei tour WTA e ATP.</desc>
+  <programme start="20260318120000 +0000" stop="20260318130000 +0000" channel="Sky Sports F1">
+    <title lang="it">Accademia F1: Gara 1</title>
+    <sub-title lang="it">E3</sub-title>
+    <desc lang="it">Il gruppo tutto femminile dei piloti della F1 Academy ha raggiunto il Circuito Internazionale di Shanghai per la gara di apertura della stagione, con le prime otto qualificazioni invertite.</desc>
   </programme>
-  <programme start="20260313090000 +0000" stop="20260313110000 +0000" channel="Sky Sports Tennis">
-    <title lang="it">Punti salienti del tennis</title>
-    <sub-title lang="it">E9</sub-title>
-    <desc lang="it">Rivivi una partita eccezionale di ieri nei tour WTA e ATP.</desc>
+  <programme start="20260318130000 +0000" stop="20260318140000 +0000" channel="Sky Sports F1">
+    <title lang="it">Accademia F1: Gara 2</title>
+    <sub-title lang="it">E4</sub-title>
+    <desc lang="it">Il gruppo tutto femminile dei piloti della F1 Academy ha toccato il Circuito Internazionale di Shanghai per la seconda gara della stagione.</desc>
   </programme>
-  <programme start="20260313110000 +0000" stop="20260313120000 +0000" channel="Sky Sports Tennis">
-    <title lang="it">Finale WTA: Ostrava</title>
-    <sub-title lang="it">E6</sub-title>
-    <desc lang="it">Katie Boulter punta al suo quarto titolo in carriera mentre l'ex numero 23 del mondo affronta la tedesca Tamara Korpatsch nella finale di Ostrava. Boulter tornerà tra i primi 100 con la vittoria. (07.02).</desc>
+  <programme start="20260318140000 +0000" stop="20260318150000 +0000" channel="Sky Sports F1">
+    <title lang="it">Momenti salienti dell'IndyCar</title>
+    <sub-title lang="it">E15</sub-title>
+    <desc lang="it">È il giorno della gara della NTT IndyCar Series mentre inizia il Gran Premio di Arlington. (15.03).</desc>
   </programme>
-  <programme start="20260313120000 +0000" stop="20260313140000 +0000" channel="Sky Sports Tennis">
-    <title lang="it">Indian Wells: dieci al tie-break</title>
-    <sub-title lang="it">E44</sub-title>
-    <desc lang="it">Alla vigilia di Indian Wells, Tie Break Tens ritorna per una vetrina di tennis frenetico, ad alta energia e in cui il vincitore prende tutto in un formato doppio misto.</desc>
+  <programme start="20260318150000 +0000" stop="20260318160000 +0000" channel="Sky Sports F1">
+    <title lang="it">Momenti salienti del GP di F1 cinese</title>
+    <sub-title lang="it">E141</sub-title>
+    <desc lang="it">Luci spente sul Circuito Internazionale di Shanghai per il Gran Premio della Cina 2026. Oscar Piastri è passato dalla pole qui la scorsa stagione, battendo Lando Norris e George Russell al primo posto. (15.03).</desc>
   </programme>
-  <programme start="20260313140000 +0000" stop="20260313160000 +0000" channel="Sky Sports Tennis">
-    <title lang="it">Punti salienti del tennis</title>
-    <sub-title lang="it">E9</sub-title>
-    <desc lang="it">Rivivi una partita eccezionale di ieri nei tour WTA e ATP.</desc>
+  <programme start="20260318160000 +0000" stop="20260318170000 +0000" channel="Sky Sports F1">
+    <title lang="it">Accademia F1: Gara 1</title>
+    <sub-title lang="it">E3</sub-title>
+    <desc lang="it">Il gruppo tutto femminile dei piloti della F1 Academy ha raggiunto il Circuito Internazionale di Shanghai per la gara di apertura della stagione, con le prime otto qualificazioni invertite.</desc>
   </programme>
-  <programme start="20260313160000 +0000" stop="20260313180000 +0000" channel="Sky Sports Tennis">
-    <title lang="it">Punti salienti del tennis</title>
-    <sub-title lang="it">E9</sub-title>
-    <desc lang="it">Rivivi una partita eccezionale di ieri nei tour WTA e ATP.</desc>
+  <programme start="20260318170000 +0000" stop="20260318180000 +0000" channel="Sky Sports F1">
+    <title lang="it">Accademia F1: Gara 2</title>
+    <sub-title lang="it">E4</sub-title>
+    <desc lang="it">Il gruppo tutto femminile dei piloti della F1 Academy ha toccato il Circuito Internazionale di Shanghai per la seconda gara della stagione.</desc>
   </programme>
-  <programme start="20260313180000 +0000" stop="20260313210000 +0000" channel="Sky Sports Tennis">
-    <title lang="it">Live: ATP Indian Wells Doppio SF</title>
-    <sub-title lang="it">E23</sub-title>
-    <desc lang="it">Goditi l'azione dal vivo dei tour ATP e WTA.</desc>
+  <programme start="20260318180000 +0000" stop="20260318190000 +0000" channel="Sky Sports F1">
+    <title lang="it">GP Cina F1: Sprint</title>
+    <sub-title lang="it">E50</sub-title>
+    <desc lang="it">Il fine settimana del Gran Premio della Cina vede il primo dei sei Sprint di F1 di questa stagione. La prima vittoria della Ferrari di Lewis Hamilton è arrivata qui a Shanghai l'anno scorso. (14.03).</desc>
   </programme>
-  <programme start="20260313210000 +0000" stop="20260314030000 +0000" channel="Sky Sports Tennis">
-    <title lang="it">In diretta: WTA Indian Well SFs</title>
-    <sub-title lang="it">E10</sub-title>
-    <desc lang="it">Goditi l'azione dal vivo dei tour ATP e WTA.</desc>
+  <programme start="20260318190000 +0000" stop="20260318200000 +0000" channel="Sky Sports F1">
+    <title lang="it">Momenti salienti del GP di F1 cinese</title>
+    <sub-title lang="it">E141</sub-title>
+    <desc lang="it">Luci spente sul Circuito Internazionale di Shanghai per il Gran Premio della Cina 2026. Oscar Piastri è passato dalla pole qui la scorsa stagione, battendo Lando Norris e George Russell al primo posto. (15.03).</desc>
+  </programme>
+  <programme start="20260318200000 +0000" stop="20260318230000 +0000" channel="Sky Sports F1">
+    <title lang="it">Serie Indycar</title>
+    <sub-title lang="it">E15</sub-title>
+    <desc lang="it">È il giorno della gara della NTT IndyCar Series mentre inizia il Gran Premio di Arlington.</desc>
+  </programme>
+  <programme start="20260318230000 +0000" stop="20260319000000 +0000" channel="Sky Sports F1">
+    <title lang="it">Momenti salienti del GP di F1 cinese</title>
+    <sub-title lang="it">E0</sub-title>
+    <desc lang="it">Luci spente sul Circuito Internazionale di Shanghai per il Gran Premio della Cina 2026. Oscar Piastri è passato dalla pole qui la scorsa stagione, battendo Lando Norris e George Russell al primo posto. (15.03).</desc>
   </programme>
   <programme start="20260314030000 +0000" stop="20260314031500 +0000" channel="Sky Sports Tennis">
     <title lang="it">Finale ATP: Indian Wells</title>
@@ -1614,7 +628,7 @@
   <programme start="20260314040000 +0000" stop="20260314050000 +0000" channel="Sky Sports Tennis">
     <title lang="it">Partite classiche dell'ATP/WTA Tour</title>
     <sub-title lang="it">E17</sub-title>
-    <desc lang="it">In una prova di volontà durata tre ore, Justine Henin tentava di chiudere un anno di alti e bassi difendendo il titolo delle WTA Finals contro Maria Sharapova nel 2007.</desc>
+    <desc lang="it">In una prova di volontà durata tre ore, Justine Henin si proponeva di chiudere un anno di alti e bassi difendendo il titolo delle WTA Finals contro Maria Sharapova nel 2007.</desc>
   </programme>
   <programme start="20260314050000 +0000" stop="20260314060000 +0000" channel="Sky Sports Tennis">
     <title lang="it">Partite classiche dell'ATP/WTA Tour</title>
@@ -1673,7 +687,7 @@
   </programme>
   <programme start="20260315003000 +0000" stop="20260315020000 +0000" channel="Sky Sports Tennis">
     <title lang="it">Live: Finale Doppio ATP Indian Wells</title>
-    <sub-title lang="it">Domenica del Gran Premio: Cina</sub-title>
+    <sub-title lang="it">E25</sub-title>
     <desc lang="it">Una coppia di campioni viene incoronata nella finale di doppio a Indian Wells.</desc>
   </programme>
   <programme start="20260315020000 +0000" stop="20260315030000 +0000" channel="Sky Sports Tennis">
@@ -1689,7 +703,7 @@
   <programme start="20260315031500 +0000" stop="20260315033000 +0000" channel="Sky Sports Tennis">
     <title lang="it">Finale WTA: Roma</title>
     <sub-title lang="it">E34</sub-title>
-    <desc lang="it">HK 32 Liptovský Mikuláš - HKM Zvolen</desc>
+    <desc lang="it">Una campionessa del singolare femminile viene incoronata agli Open d'Italia, quando la favorita di casa e numero cinque del mondo Jasmine Paolini affronta l'americana Coco Gauff. (17.05).</desc>
   </programme>
   <programme start="20260315033000 +0000" stop="20260315034500 +0000" channel="Sky Sports Tennis">
     <title lang="it">Finale ATP: Madrid</title>
@@ -1779,7 +793,7 @@
   <programme start="20260316003000 +0000" stop="20260316004500 +0000" channel="Sky Sports Tennis">
     <title lang="it">Finale ATP: Toronto</title>
     <sub-title lang="it">E45</sub-title>
-    <desc lang="it">Ben Shelton è protagonista della sua prima finale ATP Masters, il 22enne punta a diventare numero sei del mondo contro Karen Khachanov, che mette fine a un'attesa di sette anni per competere su questo palco. (07.08).</desc>
+    <desc lang="it">Ben Shelton è protagonista della sua prima finale ATP Masters, il 22enne punta a diventare numero sei al mondo contro Karen Khachanov, che mette fine a un'attesa di sette anni per competere su questo palco. (07.08).</desc>
   </programme>
   <programme start="20260316004500 +0000" stop="20260316010000 +0000" channel="Sky Sports Tennis">
     <title lang="it">Finale WTA: Pechino</title>
@@ -1814,12 +828,12 @@
   <programme start="20260316054500 +0000" stop="20260316060000 +0000" channel="Sky Sports Tennis">
     <title lang="it">Finali WTA</title>
     <sub-title lang="it">E58</sub-title>
-    <desc lang="it">Punto 17, Marek Hamšík, documentario</desc>
+    <desc lang="it">Una campionessa del singolare femminile viene incoronata alle finali WTA a Riyadh, in Arabia Saudita. (08.11).</desc>
   </programme>
   <programme start="20260316060000 +0000" stop="20260316063000 +0000" channel="Sky Sports Tennis">
     <title lang="it">Tour ATP questa settimana</title>
     <sub-title lang="it">S2026E28</sub-title>
-    <desc lang="it">Scopri dietro le quinte del tennis professionistico maschile durante tutta la stagione 2026 dell'ATP Tour con contenuti speciali, interviste e molto altro.</desc>
+    <desc lang="it">Scopri dietro le quinte del tennis professionistico maschile per tutta la stagione 2026 dell'ATP Tour con contenuti speciali, interviste e molto altro.</desc>
   </programme>
   <programme start="20260316063000 +0000" stop="20260316083000 +0000" channel="Sky Sports Tennis">
     <title lang="it">Finale WTA: Indian Wells</title>
@@ -1834,7 +848,7 @@
   <programme start="20260316103000 +0000" stop="20260316110000 +0000" channel="Sky Sports Tennis">
     <title lang="it">Tour ATP questa settimana</title>
     <sub-title lang="it">S2026E28</sub-title>
-    <desc lang="it">Scopri dietro le quinte del tennis professionistico maschile durante tutta la stagione 2026 dell'ATP Tour con contenuti speciali, interviste e molto altro.</desc>
+    <desc lang="it">Scopri dietro le quinte del tennis professionistico maschile per tutta la stagione 2026 dell'ATP Tour con contenuti speciali, interviste e molto altro.</desc>
   </programme>
   <programme start="20260316110000 +0000" stop="20260316130000 +0000" channel="Sky Sports Tennis">
     <title lang="it">Finale WTA: Indian Wells</title>
@@ -1889,7 +903,7 @@
   <programme start="20260316230000 +0000" stop="20260316233000 +0000" channel="Sky Sports Tennis">
     <title lang="it">Tour ATP questa settimana</title>
     <sub-title lang="it">S2026E28</sub-title>
-    <desc lang="it">Scopri dietro le quinte del tennis professionistico maschile durante tutta la stagione 2026 dell'ATP Tour con contenuti speciali, interviste e molto altro.</desc>
+    <desc lang="it">Scopri dietro le quinte del tennis professionistico maschile per tutta la stagione 2026 dell'ATP Tour con contenuti speciali, interviste e molto altro.</desc>
   </programme>
   <programme start="20260316233000 +0000" stop="20260316234500 +0000" channel="Sky Sports Tennis">
     <title lang="it">Finale WTA: Indian Wells</title>
@@ -1969,7 +983,7 @@
   <programme start="20260317123000 +0000" stop="20260317133000 +0000" channel="Sky Sports Tennis">
     <title lang="it">Recensione ATP Indian Wells 2026</title>
     <sub-title lang="it">E1</sub-title>
-    <desc lang="it">Goditi un resoconto approfondito di tutta l'azione del tabellone principale maschile del BNP Paribas Open 2026 di Indian Wells.</desc>
+    <desc lang="it">Made in Italy, Samuele Ricci</desc>
   </programme>
   <programme start="20260317133000 +0000" stop="20260317140000 +0000" channel="Sky Sports Tennis">
     <title lang="it">Recensione WTA Indian Wells 2025</title>
@@ -1991,86 +1005,70 @@
     <sub-title lang="it">E15</sub-title>
     <desc lang="it">Goditi l'azione dal vivo dei tour WTA e ATP.</desc>
   </programme>
-  <programme start="20260313000000 +0100" stop="20260313020000 +0100" channel="Sport 1">
-    <title lang="it">Calcio</title>
-    <sub-title lang="it">Stoccarda-Oporto</sub-title>
-    <desc lang="it">Europa League, ottavi di finale Europa League, ottavi di finale.</desc>
-    <category lang="it">Sport</category>
+  <programme start="20260318030000 +0000" stop="20260318031500 +0000" channel="Sky Sports Tennis">
+    <title lang="it">Finale ATP: Parigi</title>
+    <sub-title lang="it">E63</sub-title>
+    <desc lang="it">Un campione di fine anno viene incoronato nella capitale francese al Rolex Paris Masters. (02.11).</desc>
   </programme>
-  <programme start="20260313020000 +0100" stop="20260313040000 +0100" channel="Sport 1">
-    <title lang="it">Calcio</title>
-    <sub-title lang="it">Sigma Olomouc - Magonza</sub-title>
-    <desc lang="it">Europa League, ottavi di finale Europa League, ottavi di finale.</desc>
-    <category lang="it">Sport</category>
+  <programme start="20260318031500 +0000" stop="20260318033000 +0000" channel="Sky Sports Tennis">
+    <title lang="it">Finale WTA: Doha</title>
+    <sub-title lang="it">E29</sub-title>
+    <desc lang="it">L'attesa di quasi sette anni di Jelena Ostapenko per competere per un titolo WTA 1000 si conclude a Doha, quando l'ex campionessa del Grande Slam affronta la 23enne americana Amanda Anisimova in una finale senza teste di serie. (15.02).</desc>
   </programme>
-  <programme start="20260313040000 +0100" stop="20260313060000 +0100" channel="Sport 1">
-    <title lang="it">Hockey su ghiaccio</title>
-    <sub-title lang="it">Växjö-Örebro</sub-title>
-    <desc lang="it">SHL, parte baseSHL, parte base</desc>
-    <category lang="it">Sport</category>
+  <programme start="20260318033000 +0000" stop="20260318034500 +0000" channel="Sky Sports Tennis">
+    <title lang="it">Finale ATP: Indian Wells</title>
+    <sub-title lang="it">E35</sub-title>
+    <desc lang="it">Il britannico Jack Draper gareggia nella sua prima finale dell'ATP Masters 1000 a Indian Wells mentre il britannico nella top 10 affronta Holger Rune. Draper ha eliminato Carlos Alcaraz negli ultimi quattro. (16.03).</desc>
   </programme>
-  <programme start="20260313060000 +0100" stop="20260313073000 +0100" channel="Sport 1">
-    <title lang="it">Acquisti televisivi</title>
-    <category lang="it">Sport</category>
+  <programme start="20260318034500 +0000" stop="20260318040000 +0000" channel="Sky Sports Tennis">
+    <title lang="it">Finale WTA: Dubai</title>
+    <sub-title lang="it">E30</sub-title>
+    <desc lang="it">A Dubai viene incoronata la campionessa del singolare femminile. Mirra Andreeva, la più giovane finalista WTA di sempre, e la danese Clara Tauson si affrontano per la gloria. (22.02).</desc>
   </programme>
-  <programme start="20260313073000 +0100" stop="20260313093000 +0100" channel="Sport 1">
-    <title lang="it">Hockey su ghiaccio</title>
-    <sub-title lang="it">Växjö-Örebro</sub-title>
-    <desc lang="it">SHL, parte baseSHL, parte base</desc>
-    <category lang="it">Sport</category>
+  <programme start="20260318040000 +0000" stop="20260318050000 +0000" channel="Sky Sports Tennis">
+    <title lang="it">Partite classiche dell'ATP/WTA Tour</title>
+    <sub-title lang="it">E4</sub-title>
+    <desc lang="it">In un'epopea durata cinque ore e cinque set all'Open di Roma, il diciottenne Rafael Nadal ha illuminato il Foro Italico nella sua sfida avanti e indietro con l'argentino Guillermo Coria.</desc>
   </programme>
-  <programme start="20260313093000 +0100" stop="20260313100000 +0100" channel="Sport 1">
-    <title lang="it">Calcio</title>
-    <category lang="it">Sport</category>
+  <programme start="20260318050000 +0000" stop="20260318060000 +0000" channel="Sky Sports Tennis">
+    <title lang="it">Partite classiche dell'ATP/WTA Tour</title>
+    <sub-title lang="it">E14</sub-title>
+    <desc lang="it">Alla ricerca del primo dei suoi tre titoli a Toronto, Serena Williams si è imbattuta nella vincitrice seriale Monica Seles, quattro volte vincitrice a pieno titolo, nelle semifinali del 2001.</desc>
   </programme>
-  <programme start="20260313100000 +0100" stop="20260313110000 +0100" channel="Sport 1">
-    <title lang="it">Acquisti televisivi</title>
-    <category lang="it">Sport</category>
+  <programme start="20260318060000 +0000" stop="20260318070000 +0000" channel="Sky Sports Tennis">
+    <title lang="it">Finale WTA: Indian Wells</title>
+    <sub-title lang="it">E14</sub-title>
+    <desc lang="it">La campionessa del singolare femminile viene incoronata nella finale di Indian Wells. (15.03).</desc>
   </programme>
-  <programme start="20260313110000 +0100" stop="20260313130000 +0100" channel="Sport 1">
-    <title lang="it">Calcio</title>
-    <sub-title lang="it">Atalanta - Udinese</sub-title>
-    <desc lang="it">Serie A, 28. koloSerie A, 28. kolo.</desc>
-    <category lang="it">Sport</category>
+  <programme start="20260318070000 +0000" stop="20260318090000 +0000" channel="Sky Sports Tennis">
+    <title lang="it">Punti salienti del tennis</title>
+    <sub-title lang="it">E1</sub-title>
+    <desc lang="it">Rivivi una partita eccezionale di ieri nei tour WTA e ATP.</desc>
   </programme>
-  <programme start="20260313130000 +0100" stop="20260313170000 +0100" channel="Sport 1">
-    <title lang="it">Freccette</title>
-    <desc lang="it">Trofeo Europeo di Freccette, Gottinga, Germania, Giorno 1, Parte 1 Trofeo Europeo di Freccette, Gottinga, Germania, Giorno 1, Parte 1.</desc>
-    <category lang="it">Sport</category>
+  <programme start="20260318090000 +0000" stop="20260318110000 +0000" channel="Sky Sports Tennis">
+    <title lang="it">Punti salienti del tennis</title>
+    <sub-title lang="it">E1</sub-title>
+    <desc lang="it">Rivivi una partita eccezionale di ieri nei tour WTA e ATP.</desc>
   </programme>
-  <programme start="20260313170000 +0100" stop="20260313171500 +0100" channel="Sport 1">
-    <title lang="it">Calcio</title>
-    <sub-title lang="it">Prodotto in Italia, Yerry Mina</sub-title>
-    <category lang="it">Sport</category>
+  <programme start="20260318110000 +0000" stop="20260318130000 +0000" channel="Sky Sports Tennis">
+    <title lang="it">Punti salienti del tennis</title>
+    <sub-title lang="it">E1</sub-title>
+    <desc lang="it">Rivivi una partita eccezionale di ieri nei tour WTA e ATP.</desc>
   </programme>
-  <programme start="20260313171500 +0100" stop="20260313184500 +0100" channel="Sport 1">
-    <title lang="it">Pallamano</title>
-    <sub-title lang="it">Veszprem - Aalborg</sub-title>
-    <desc lang="it">Gruppo Base Champions League Maschile NuovoGruppo Base Champions League Maschile Nuovo</desc>
-    <category lang="it">Sport</category>
+  <programme start="20260318130000 +0000" stop="20260318150000 +0000" channel="Sky Sports Tennis">
+    <title lang="it">Punti salienti del tennis</title>
+    <sub-title lang="it">E1</sub-title>
+    <desc lang="it">Rivivi una partita eccezionale di ieri nei tour WTA e ATP.</desc>
   </programme>
-  <programme start="20260313184500 +0100" stop="20260313201500 +0100" channel="Sport 1">
-    <title lang="it">Pallamano</title>
-    <sub-title lang="it">Foxes Berlino - Nantes</sub-title>
-    <desc lang="it">Gruppo Base Champions League Maschile NuovoGruppo Base Champions League Maschile Nuovo</desc>
-    <category lang="it">Sport</category>
+  <programme start="20260318150000 +0000" stop="20260318230000 +0000" channel="Sky Sports Tennis">
+    <title lang="it">In diretta: ATP/WTA Miami</title>
+    <sub-title lang="it">E2</sub-title>
+    <desc lang="it">Goditi l'azione dal vivo dei tour WTA e ATP.</desc>
   </programme>
-  <programme start="20260313201500 +0100" stop="20260313204500 +0100" channel="Sport 1">
-    <title lang="it">Calcio</title>
-    <sub-title lang="it">nuovo</sub-title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260313204500 +0100" stop="20260313224500 +0100" channel="Sport 1">
-    <title lang="it">Calcio</title>
-    <sub-title lang="it">Torino-Parma</sub-title>
-    <desc lang="it">Serie A, 29. koloSerie A, 29. kolo.</desc>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260313224500 +0100" stop="20260314004500 +0100" channel="Sport 1">
-    <title lang="it">Hockey su ghiaccio</title>
-    <sub-title lang="it">Luleå-Rögle</sub-title>
-    <desc lang="it">SHL, parte baseSHL, parte base</desc>
-    <category lang="it">Sport</category>
+  <programme start="20260318230000 +0000" stop="20260319030000 +0000" channel="Sky Sports Tennis">
+    <title lang="it">In diretta: ATP/WTA Miami</title>
+    <sub-title lang="it">E16</sub-title>
+    <desc lang="it">Goditi l'azione dal vivo dei tour WTA e ATP.</desc>
   </programme>
   <programme start="20260314004500 +0100" stop="20260314030000 +0100" channel="Sport 1">
     <title lang="it">Hockey su ghiaccio</title>
@@ -2124,7 +1122,7 @@
   <programme start="20260314130000 +0100" stop="20260314150000 +0100" channel="Sport 1">
     <title lang="it">Calcio</title>
     <sub-title lang="it">AZ - Sparta Praga</sub-title>
-    <desc lang="it">La campionessa del singolare femminile viene incoronata nella finale di Indian Wells.</desc>
+    <desc lang="it">Europa League, ottavi di finale, oggi Europa League, ottavi di finale, oggi.</desc>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260314150000 +0100" stop="20260314170000 +0100" channel="Sport 1">
@@ -2267,7 +1265,7 @@
   <programme start="20260316110000 +0100" stop="20260316130000 +0100" channel="Sport 1">
     <title lang="it">Tennis</title>
     <sub-title lang="it">WTA 250, Austin, finale</sub-title>
-    <desc lang="it">Tennis WTA Tour è il livello più alto di tennis professionistico femminile, che comprende dozzine di tornei in una stagione.Tennis WTA Tour è il livello più alto di tennis professionistico femminile, che comprende dozzine di tornei in una stagione.</desc>
+    <desc lang="it">Tennis WTA Tour è il livello più alto di tennis professionistico femminile, che comprende dozzine di tornei in una stagione. Tennis WTA Tour è il livello più alto di tennis professionistico femminile, che comprende dozzine di tornei in una stagione.</desc>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260316130000 +0100" stop="20260316153000 +0100" channel="Sport 1">
@@ -2386,76 +1384,73 @@
     <sub-title lang="it">Serie A, 29. kolo</sub-title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260313003000 +0100" stop="20260313023000 +0100" channel="Sport 2">
+  <programme start="20260318014500 +0100" stop="20260318020000 +0100" channel="Sport 1">
     <title lang="it">Calcio</title>
-    <sub-title lang="it">Lille-Aston Villa</sub-title>
-    <desc lang="it">Europa League, ottavi di finale Europa League, ottavi di finale.</desc>
+    <sub-title lang="it">Made in Italy, Jacopo Fazzini</sub-title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260313023000 +0100" stop="20260313030000 +0100" channel="Sport 2">
+  <programme start="20260318020000 +0100" stop="20260318060000 +0100" channel="Sport 1">
+    <title lang="it">Freccette</title>
+    <desc lang="it">Trofeo Europeo di Freccette, Gottinga, Germania, Giorno 3, Parte 1 Trofeo Europeo di Freccette, Gottinga, Germania, Giorno 3, Parte 1.</desc>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318060000 +0100" stop="20260318073000 +0100" channel="Sport 1">
+    <title lang="it">Acquisti televisivi</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318073000 +0100" stop="20260318100000 +0100" channel="Sport 1">
+    <title lang="it">Hockey su ghiaccio</title>
+    <sub-title lang="it">Frölunda - Lulea</sub-title>
+    <desc lang="it">CHL, finaleCHL, finale.</desc>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318100000 +0100" stop="20260318110000 +0100" channel="Sport 1">
+    <title lang="it">Acquisti televisivi</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318110000 +0100" stop="20260318130000 +0100" channel="Sport 1">
+    <title lang="it">Hockey su ghiaccio</title>
+    <sub-title lang="it">Brynas - HV71</sub-title>
+    <desc lang="it">SHL, parte baseSHL, parte base</desc>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318130000 +0100" stop="20260318133000 +0100" channel="Sport 1">
     <title lang="it">Calcio</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260313030000 +0100" stop="20260313060000 +0100" channel="Sport 2">
+  <programme start="20260318133000 +0100" stop="20260318170000 +0100" channel="Sport 1">
     <title lang="it">Scatola</title>
     <sub-title lang="it">Badou Jack-Noel Mikaelian</sub-title>
     <desc lang="it">Los AngelesLos Angeles.</desc>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260313060000 +0100" stop="20260313080000 +0100" channel="Sport 2">
-    <title lang="it">Calcio</title>
-    <sub-title lang="it">Juventus - Pisa</sub-title>
-    <desc lang="it">Serie A, 28. koloSerie A, 28. kolo.</desc>
+  <programme start="20260318170000 +0100" stop="20260318171500 +0100" channel="Sport 1">
+    <title lang="it">Momenti d'oro</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260313080000 +0100" stop="20260313090000 +0100" channel="Sport 2">
-    <title lang="it">Acquisti televisivi</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260313090000 +0100" stop="20260313110000 +0100" channel="Sport 2">
-    <title lang="it">Calcio</title>
-    <sub-title lang="it">Bologna - Verona</sub-title>
-    <desc lang="it">Serie A, 28. koloSerie A, 28. kolo.</desc>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260313110000 +0100" stop="20260313120000 +0100" channel="Sport 2">
-    <title lang="it">Acquisti televisivi</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260313120000 +0100" stop="20260313130000 +0100" channel="Sport 2">
-    <title lang="it">Calcio</title>
-    <sub-title lang="it">Serie A, 28. kolo</sub-title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260313130000 +0100" stop="20260313153000 +0100" channel="Sport 2">
+  <programme start="20260318171500 +0100" stop="20260318201500 +0100" channel="Sport 1">
     <title lang="it">Hockey su ghiaccio</title>
-    <sub-title lang="it">Davos-Bienne</sub-title>
-    <desc lang="it">National League, stagione regolareNational League, stagione regolare</desc>
+    <sub-title lang="it">HC Košice - HC MONACObet Banská Bystrica</sub-title>
+    <desc lang="it">Tipsport Liga, playoff quarti di finale, 1a partitaTipsport Liga, playoff quarti di finale, 1a partita.</desc>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260313153000 +0100" stop="20260313163000 +0100" channel="Sport 2">
-    <title lang="it">Poker</title>
-    <sub-title lang="it">Riepilogo degli eventi principali delle WSOP 15/15</sub-title>
+  <programme start="20260318201500 +0100" stop="20260318210000 +0100" channel="Sport 1">
+    <title lang="it">MVP</title>
+    <sub-title lang="it">Parla di sport, David Krejci</sub-title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260313163000 +0100" stop="20260313170000 +0100" channel="Sport 2">
+  <programme start="20260318210000 +0100" stop="20260318213000 +0100" channel="Sport 1">
     <title lang="it">Calcio</title>
+    <sub-title lang="it">nuovo</sub-title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260313170000 +0100" stop="20260313190000 +0100" channel="Sport 2">
+  <programme start="20260318213000 +0100" stop="20260318220000 +0100" channel="Sport 1">
+    <title lang="it">I segreti del calcio, Massimo Allegri</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318220000 +0100" stop="20260319003000 +0100" channel="Sport 1">
     <title lang="it">Hockey su ghiaccio</title>
-    <sub-title lang="it">Luleå-Rögle</sub-title>
-    <desc lang="it">SHL, parte base, nuovaSHL, parte base, nuova.</desc>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260313190000 +0100" stop="20260313230000 +0100" channel="Sport 2">
-    <title lang="it">Freccette</title>
-    <desc lang="it">Trofeo Europeo di Freccette, Gottinga, Germania, Giorno 1, Parte 2Trofeo Europeo di Freccette, Gottinga, Germania, Giorno 1, Parte 2.</desc>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260313230000 +0100" stop="20260314000000 +0100" channel="Sport 2">
-    <title lang="it">Scatola</title>
-    <sub-title lang="it">Hector Camacho Jr-Bryon Mackie</sub-title>
+    <sub-title lang="it">SHL, ottavi di finale</sub-title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260314000000 +0100" stop="20260314040000 +0100" channel="Sport 2">
@@ -2548,7 +1543,7 @@
   </programme>
   <programme start="20260315083000 +0100" stop="20260315123000 +0100" channel="Sport 2">
     <title lang="it">Scatola</title>
-    <sub-title lang="it">Momenti salienti dell'IndyCar</sub-title>
+    <sub-title lang="it">Nonito Donaire-Masuda Riku</sub-title>
     <desc lang="it">YokohamaYokohama.</desc>
     <category lang="it">Sport</category>
   </programme>
@@ -2703,6 +1698,86 @@
     <title lang="it">Hockey su ghiaccio</title>
     <sub-title lang="it">Davos-Bienne</sub-title>
     <desc lang="it">National League, stagione regolareNational League, stagione regolare</desc>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318000000 +0100" stop="20260318030000 +0100" channel="Sport 2">
+    <title lang="it">Hockey su ghiaccio</title>
+    <sub-title lang="it">Tipsport League, qualificazione ai playoff</sub-title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318030000 +0100" stop="20260318040000 +0100" channel="Sport 2">
+    <title lang="it">Calcio</title>
+    <sub-title lang="it">Serie A, 29. kolo</sub-title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318040000 +0100" stop="20260318060000 +0100" channel="Sport 2">
+    <title lang="it">Calcio</title>
+    <sub-title lang="it">Serie A, 29. kolo</sub-title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318060000 +0100" stop="20260318080000 +0100" channel="Sport 2">
+    <title lang="it">Calcio</title>
+    <sub-title lang="it">Serie A, 29. kolo</sub-title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318080000 +0100" stop="20260318090000 +0100" channel="Sport 2">
+    <title lang="it">Acquisti televisivi</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318090000 +0100" stop="20260318110000 +0100" channel="Sport 2">
+    <title lang="it">Calcio</title>
+    <sub-title lang="it">Serie A, 29. kolo</sub-title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318110000 +0100" stop="20260318120000 +0100" channel="Sport 2">
+    <title lang="it">Acquisti televisivi</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318120000 +0100" stop="20260318140000 +0100" channel="Sport 2">
+    <title lang="it">Tennis</title>
+    <sub-title lang="it">WTA 250, Austin, semifinali</sub-title>
+    <desc lang="it">Tennis WTA Tour è il livello più alto di tennis professionistico femminile, che comprende dozzine di tornei in una stagione. Tennis WTA Tour è il livello più alto di tennis professionistico femminile, che comprende dozzine di tornei in una stagione.</desc>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318140000 +0100" stop="20260318160000 +0100" channel="Sport 2">
+    <title lang="it">Tennis</title>
+    <sub-title lang="it">WTA 250, Austin, semifinali</sub-title>
+    <desc lang="it">Tennis WTA Tour è il livello più alto di tennis professionistico femminile, che comprende dozzine di tornei in una stagione. Tennis WTA Tour è il livello più alto di tennis professionistico femminile, che comprende dozzine di tornei in una stagione.</desc>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318160000 +0100" stop="20260318161500 +0100" channel="Sport 2">
+    <title lang="it">Calcio</title>
+    <sub-title lang="it">Prodotto in Italia, Darko Lazović</sub-title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318161500 +0100" stop="20260318183000 +0100" channel="Sport 2">
+    <title lang="it">Calcio</title>
+    <sub-title lang="it">Braga-Ferencváros</sub-title>
+    <desc lang="it">Europa League, ottavi di finale Europa League, ottavi di finale.</desc>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318183000 +0100" stop="20260318190000 +0100" channel="Sport 2">
+    <title lang="it">Calcio</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318190000 +0100" stop="20260318213000 +0100" channel="Sport 2">
+    <title lang="it">Hockey su ghiaccio</title>
+    <sub-title lang="it">SHL, play-out</sub-title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318213000 +0100" stop="20260318223000 +0100" channel="Sport 2">
+    <title lang="it">Poker</title>
+    <sub-title lang="it">Riepilogo degli eventi principali delle WSOP 15/15</sub-title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318223000 +0100" stop="20260318233000 +0100" channel="Sport 2">
+    <title lang="it">Calcio</title>
+    <sub-title lang="it">Serie A, 29. kolo</sub-title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318233000 +0100" stop="20260319033000 +0100" channel="Sport 2">
+    <title lang="it">Freccette</title>
+    <desc lang="it">Polonia Darts Open, PDC European Tour 2025, Giorno 3, Parte 2 Polonia Darts Open, PDC European Tour 2025, Giorno 3, Parte 2.</desc>
     <category lang="it">Sport</category>
   </programme>
   </tv>
